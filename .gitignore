@@ -1,0 +1,17 @@
+# Secrets — NEVER commit these
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local vector database (rebuilt from the documents)
+data/chroma/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
