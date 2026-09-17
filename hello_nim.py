@@ -19,9 +19,9 @@ response = client.chat.completions.create(
     model=os.getenv("LLM_MODEL"),
     messages=[
         {"role": "system", "content": "You are a helpful assistant. Answer in Turkish, briefly."},
-        {"role": "user", "content": "Merhaba! LLM API'ı nedir, tek cümleyle anlatır mısın?"},
+        {"role": "user", "content": "ODTÜ KKK'da ders ekleme-bırakma dönemi ne zaman ve kaç ders bırakabilirim??"},
     ],
-    temperature=0.2,
+    temperature=1.0,
 )
 
 print(response.choices[0].message.content)
