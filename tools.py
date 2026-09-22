@@ -6,7 +6,8 @@ the same output. The model only DECIDES which tool to call; our code RUNS it.
 from datetime import date
 
 # METU letter grade -> grade points.
-# TODO (Phase 3): verify against the official METU undergraduate regulation and cite the article.
+# Source: METU NCC Undergraduate Education Regulation (2026), Article 24(5).
+# NA counts as FF (0.00) in grade point averages, Article 24(5)(b).
 GRADE_POINTS = {
     "AA": 4.0, "BA": 3.5, "BB": 3.0, "CB": 2.5, "CC": 2.0,
     "DC": 1.5, "DD": 1.0, "FD": 0.5, "FF": 0.0, "NA": 0.0,

@@ -1,0 +1,278 @@
+# METU NCC Undergraduate Education Regulation (2026)
+
+Source: https://ncc.metu.edu.tr/ro/undergraduate-education-regulation (retrieved 2026-09-22)
+
+## ARTICLE 1 – Aim
+
+(1) The aim of this Regulation is to lay out the rules for student admissions and registration to the undergraduate programs carried out at Middle East Technical University, as well as those for the conduct of undergraduate education and examinations.
+
+## ARTICLE 2 – Scope
+
+(1) This Regulation includes the rules concerning student admissions and registration to the undergraduate programs offered at Middle East Technical University, as well as those governing the conduct of undergraduate education and examinations.
+
+## ARTICLE 3 – Basis
+
+(1) This Regulation is based on Articles 14, 43, 44 and 46 of the Higher Education Law No. 2547 dated 4 November 1981.
+
+## ARTICLE 4 – Definitions of Terms
+
+(1) In this Regulation, the following terms have the meanings set out below: a) The Academic Board concerned: Middle East Technical University Northern Cyprus Campus Academic Boards, b) EPE: Middle East Technical University School of Foreign Languages English Proficiency Exam, c) An Undergraduate Program: A higher education program consisting of a minimum of eight semesters, d) The RO: Middle East Technical University Northern Cyprus Campus Registrar’s Office, e) The Rector: Rector of Middle East Technical University, f) The Senate: Middle East Technical University Senate, g) DBE: Middle East Technical University School of Foreign Languages Division of Basic English, h) An International Undergraduate Joint Degree Program: An undergraduate program run jointly by METU and an overseas higher education institution, i) The University / METU: Middle East Technical University, j) The University Administrative Board: Middle East Technical University Administrative Board, k) SFL: Middle East Technical University Northern Cyprus Campus School of Foreign Languages, l) Regulation: Middle East Technical University Northern Cyprus Campus Undergraduate Education Regulation, m) Teaching Staff: Faculty members, instructors, and research assistants.
+
+## ARTICLE 5 – Medium of instruction
+
+(1) In all undergraduate degrees at METU, the medium of instruction is English. However, the courses that are required to be offered in Turkish or any other language are determined by the University Senate.
+(2) Registration in undergraduate programs is completed after students’ proficiency in English has been documented.
+(3) The assessment of the English proficiency of the students admitted to and enrolled in the undergraduate programs and of the transfer students, and the education at the SFL English Preparatory Program is conducted in accordance with the “Middle East Technical University Northern Cyprus Campus School of Foreign Languages English Preparatory Program Regulation”.
+
+## ARTICLE 6 – Period of study
+
+(1) The period of study is four years (eight semesters) for undergraduate programs, and five years (ten semesters) for programs offering a master’s degree along with an undergraduate degree.
+(2) The maximum period of study is seven years (fourteen semesters) for undergraduate programs, and eight years (sixteen semesters) for programs offering a master’s degree along with an undergraduate degree.
+(3) The period of study which is spent at the English Preparatory Program is not included in the normal and maximum periods of study.
+(4) The semesters for which students are granted a leave of absence by the academic board concerned are not included in the normal and maximum periods of study.
+(5) All the semesters during which the students have been registered since they first enrolled in an undergraduate program or which have been spent unregistered due to failure to re-register are included in the normal and maximum periods of study.
+(6) The semesters which have been spent in institutions of higher education in the country or abroad as part of student exchange programs are included in the normal and maximum periods of study.
+
+## ARTICLE 7 – Academic year
+
+(1) One academic year consists of two semesters each lasting a minimum of 16 weeks, including the examination periods.
+(2) A summer school can be offered within an academic year. The regulations governing the conduct of education in summer school are determined by the Senate.
+(3) The duration and dates of the registration, instruction, examinations and other similar activities within an academic year are regulated by the academic calendar.
+(4) The weekly course schedules within a semester and summer school are prepared and announced by the program coordinator concerned in coordination with the RO.
+(5) The courses to be offered in a semester and summer school are determined by the program coordinator/head of academic board concerned, and approved by the academic board concerned. The course sections, capacities and criteria are determined by the program coordinator concerned.
+
+## ARTICLE 8 – Undergraduate programs
+
+(1) An undergraduate program is prepared by the program coordinator/head of academic board concerned, recommended by the relevant academic board, and opened with the Senate’s decision and the approval of the Council of Higher Education.
+(2) The curriculum of an undergraduate program consists of theoretical course hours, laboratory course hours, practical course hours, workshop(s), studio course hours, practical training course hours and other similar studies and of the distribution of such studies as courses between semesters.
+(3) The changes to the title and period of study of an undergraduate program are prepared by the program coordinator/head of academic board concerned, and confirmed by the Senate following the proposal of the academic board concerned.
+(4) The amendments to the curriculum of an undergraduate program and the guidelines for the adjustment of students to these are prepared by the program coordinator/head of academic board concerned and determined by the academic board concerned.
+
+## ARTICLE 9 – International joint-degree programs
+
+(1) International joint-degree programs can be opened together with the institutions of higher education abroad.
+(2) The regulations governing the international joint-degree programs are determined by the Senate.
+
+## ARTICLE 10 – Double major programs
+
+(1) Students enrolled in an undergraduate program at METU can concurrently enroll in another undergraduate program. The second undergraduate program is designated as a “Double Major Undergraduate Program”. The students who complete this program are awarded a “Double Major Diploma” in addition to the diploma they receive from the undergraduate program in which they are enrolled. The regulations governing the double major programs are determined by the Senate.
+
+## ARTICLE 11 – Minor programs
+
+(1) Students enrolled in an undergraduate program at METU can additionally enroll in a “Minor Program”, which incorporates a certain number of courses offered by another undergraduate program at METU or a certain number of interdisciplinary courses. A minor program is not an undergraduate program. The students who complete this program receive a certificate. The regulations governing the minor programs are determined by the Senate.
+
+## ARTICLE 12 – Exchange programs
+
+(1) Exchange programs can be offered between METU campuses and institutions of higher education in the country or abroad within the framework of mutual agreements. The regulations governing these programs are determined by the Senate.
+
+## ARTICLE 13 – Certificate programs
+
+(1) The regulations concerning the certificate programs are determined by the Senate.
+
+## ARTICLE 14 – Special students
+
+(1) Special students are those who are not enrolled in a program at METU but who have registered for a limited number of courses and are expected to complete the requirements of these courses. The regulations concerning special students are determined by the Senate.
+
+## ARTICLE 15 – Admission to undergraduate programs
+
+(1) Admission to undergraduate programs is governed by the regulations established by the University Senate based on the Higher Education Law No. 2547 dated November 4, 1981 and the regulations and decisions of the Council of Higher Education.
+(2) The regulations governing the application, admission and registration of international students and students applying from abroad are determined by the Senate.
+(3) The regulations governing the application and admission of undergraduate transfers within the university or from outside the University are determined by the Senate.
+(4) International applicants who fail to submit any of the required documents may be offered a “Conditional Admission”. Students who are admitted conditionally are allowed to continue their enrollment in the METU NCC undergraduate programs on the condition that they will submit the missing document(s) to the Registrar’s Office till the end of the add/drop period. Those who fail to meet the conditions of admission in the allotted time may take courses as “Special Student” for one semester in conditional status. All of the non-credit courses offered by the University and successfully completed by a special student may be counted toward the requirements of the student’s major program. The maximum number of transferable credit courses in the special student status, however, is restricted to the normal course load of the undergraduate program concerned.
+
+## ARTICLE 16 – Initial enrollments
+
+(1) Students admitted to undergraduate programs complete their initial registration through the e-Government Gateway. Those who are unable to register through the e-Government Gateway complete their registration through the METU Interactive Course Registration System within the dates specified for the registration.
+(2) The following requirements should be fulfilled in order for the enrollment of the students in the university to be finalized: a) To have a document certifying that the student is qualified to receive a diploma from a high school in Turkey or an institution in the country or abroad, which is recognized as the equivalent of a high school by the Ministry of Education. b) To fulfill the requirements regarding tuition fees. c) To comply with the legal requirements governing international students’ entry into and residence in the country. d) To fulfill the other requirements announced by the University.
+(3) The list of documents required for registration is announced on the website of the Registrar’s Office. Students found to have obtained the right to register on the basis of false or misleading documents may not register. If they have already registered, their registration is cancelled regardless of the semester they are in; all documents issued to them, including diplomas, are declared null and void, and legal action is taken against them. In such cases, a student is deemed not to be eligible for student status and thereafter may not enjoy any of the rights granted to students.
+(4) Those students who have completed registration procedures are provided with a student ID card. The ID cards contain personal information about students.
+(5) Those who have not completed their registration within the declared period are deemed to have waived their student rights and thereafter may not claim any of those rights.
+
+## ARTICLE 17 – Courses and course credits
+
+(1) The courses within undergraduate programs are of two types: compulsory and elective. Compulsory courses are those that are defined in the curriculum and thus have to be taken. Elective courses are those whose numbers, types and groups are defined in the curriculum and are chosen by students.
+(2) The course titles, codes, contents, credits, categories, equivalence, prerequisites, corequisites, midterm exams, final exams and other similar features and amendments to be made to these features are determined by the academic board concerned following proposals by the program coordinator/head of academic board concerned.
+(3) Prerequisite and co-requisite courses may be required in order that a course might be taken. a) A course which must be taken before another course and for which the passing grade must be at least DD or S is called the prerequisite of that course. b) A course which must be taken together with another course is called the co-requisite of that course. If a letter grade, except NA and W, has been taken from a co-requisite course before, the co-requisite course condition is deemed to have been satisfied.
+(4) Apart from the prerequisite and co-requisite courses, additional conditions can be required by the program coordinator/head of academic board concerned in order that a course might be taken.
+(5) In case of exemption from the prerequisite or co-requisite course of a certain course, the prerequisite or co-requisite of that course is deemed to have been met.
+(6) The credit value of a course consists of all of the weekly theoretical course hours plus half of the weekly laboratory, practical, studio, practical application and other similar course hours.
+(7) Weekly theoretical and practical course hours of non-credit courses are stated, but these courses do not take any credit value.
+
+## ARTICLE 18 – Course load
+
+(1) The normal course load of an undergraduate program is the number of credit courses in the semester during which the highest number of credit courses are defined in the curriculum of that program.
+(2) The course load of students in a semester may not exceed the normal course load. The normal course load may be increased as follows; a) For students with a Cumulative Grade Point Average of at least 2.00, by a maximum of one course. b) For students with a Cumulative Grade Point Average of at least 2.50, by a maximum of two courses.
+(3) The minimum course load of undergraduate students in a semester is 3 credit courses (except for students who begin the first semester of their undergraduate program in the Spring semester after successfully completing the English Preparatory Program at SFL at the end of the Fall semester). This load may be reduced with the approval of the program coordinator/head of academic board concerned, if there exist valid reasons for doing so.
+(4) Students who can fulfill the conditions for graduation at the end of the semester registered for may increase their normal course load by a maximum of two courses, without the requirement of a minimum Cumulative Grade Point Average. For such students, no minimum course load requirement applies.
+
+## ARTICLE 19 – Course transfers
+
+(1) Transfer of the courses a student has previously taken at METU to his/her undergraduate program is carried out by the academic board concerned following the recommendation of the program coordinator. a ) Course transfers are conducted in accordance with the current curriculum. b) In the course transfer process, it is determined which courses taken and successfully completed in the student’s former program, or for which an equivalent grade has been assigned, shall be counted toward the program. c) Taking into consideration the number of courses which are transferred, the number of semesters which the student has spent from his/her maximum period of study is calculated and deducted from his/her maximum period of study. In doing so, the normal course load of the undergraduate program concerned is considered for each semester.
+(2) The transfer and recognition of courses taken at any higher education institution other than METU to the student's registered program is carried out by the academic board concerned upon the recommendation of the program coordinator concerned. a) Course transfer and recognition procedures shall be carried out in accordance with the current curriculum. b) The courses for which the student has received a grade of CC or above, S, or an equivalent grade that are to be counted toward the program are determined in accordance with the course transfer procedures. c) The semester(s) to be deducted from the student's maximum period of study is calculated on the basis of the number of courses counted toward the program. For this calculation, one semester is deemed equivalent to the normal semester course load of the relevant program.
+(3) No course transfer and recognition is made for credit-bearing courses taken in a previously completed degree program or in a degree program pursued simultaneously at two separate higher education institutions. Only non-credit courses and courses taken with NI status may be transferred and recognized.
+(4) Other principles governing course transfer and recognition procedures are determined by the Senate.
+
+## ARTICLE 20 – Non-program courses
+
+(1) Non-program courses are the courses that are not included in the curriculum of the undergraduate or double major/minor programs in which the student is registered but that are taken as extra credit courses by the student. The rules for non-program courses are as follows: a) Such courses are taken in NI (Not Included) status. b) The courses taken in NI status are counted in the course load of the student in the semester concerned. c) Up to two courses may be taken in NI status in a semester. d) The status of courses taken as NI may not be changed upon the expiration of the registration period for the related semester. e) The status of courses not taken in NI status may not be changed to NI upon the expiration of the registration period for the semester concerned. f) The courses taken in NI status may be repeated only once in NI status. g) The courses taken in NI status are not included in the calculation of Grade Point Averages. h) The courses taken in NI status are indicated on the transcripts, along with the letter grades assigned for each course. i) A course taken in NI status may not be counted toward the degree requirements of the programs that the student is registered for in the semester concerned. j) Courses taken with NI status do not constitute an obstacle to graduation, even if the corresponding grade is NA, FF, or FD.
+
+## ARTICLE 21 – Semester registrations
+
+(1) Each semester students must re-register on the dates for online registration stated in the academic calendar. However, students who enroll in an undergraduate program for the first time may also register in the add/drop week stated in the academic calendar. Students who fail to register on the designated dates are deemed unregistered and may not enjoy the rights of registered students.
+(2) Students are first required to pay the tuition and registration fee and, if applicable, fulfill any other financial obligations (dormitory fee, library fee, etc.) pertaining to previous years.
+(3) In the first semester they have registered, students must take all first-semester courses included in the curriculum, except for those from which they are exempted.
+(4) Students who successfully complete the English Preparatory Program of the School of Foreign Languages (SFL) at the end of the Fall semester and begin the first semester of their undergraduate program in the Spring semester may take the credit and/or non-credit courses deemed appropriate by their program.
+(5) The following priorities are observed in determining the courses to be taken during semester registration provided that the prerequisites have been met: a) The courses which must be repeated. b) The compulsory courses pertaining to previous years which were not taken before. c) The courses which must be taken according to the order of years in the curriculum, which students want to retake to improve their Cumulative Grade Point Average, and/or to take in NI status.
+(6) Students who have completed their semester registration may add or drop courses or change course sections during the add/drop dates stated in the academic calendar.
+(7) Those students with unregistered status who wish to register for the current semester must apply to the program coordinator/head of academic board concerned by stating and documenting a valid reason until the termination of the designated add/drop period for the semester. The RO registers the students whose excuses are accepted by the academic board concerned and who meet the registration requirements.
+(8) Students with unregistered status may register during the registration period stated in the academic calendar in the following semesters. However, these students must apply to the RO by filing a petition no later than the date on which registration starts.
+(9) Students who fail to register for four consecutive academic years (eight semesters) without a valid reason are dismissed from the University by the decision of the academic board concerned and the approval of the Council of Higher Education.
+
+## ARTICLE 22 – Course withdrawals
+
+(1) Students may withdraw from a course in which they have registered subject to the following rules: a) Course withdrawal is done in the tenth week of the semester concerned. b) The course instructor is informed of the withdrawal. c) Students may withdraw from one course only in one semester. d) Students may withdraw from up to six courses during their period of study. e) Students may not withdraw from the courses included in the first two semesters of the curriculum. f) Students may not withdraw from courses they are repeating, courses from which they have previously withdrawn, courses taken with NI status, or non-credit courses. g) Students with a minimum course load or below in a semester may not withdraw from a course.
+
+## ARTICLE 23 – Attendance and Examinations
+
+(1) Students must attend the theoretical and practical class hours, examinations and other academic studies as required by the instructors.
+(2) The attendance of students is monitored by the instructors.
+(3) The effect of student attendance on the right to take the mid-term and final examinations and on the letter grades for a semester; the mid-term examinations, homework assignments, practical applications and other similar studies for which the students are responsible and the effect of these on the letter grades for a semester; and the conditions to take the final examination, if any, are determined by the instructors and announced to the students in the course syllabus at the beginning of the semester.
+(4) At least one mid-term examination and one final examination are given for each course. The courses which do not require a mid-term and/or final examination are determined by the program coordinator concerned and the RO is informed of these.
+(5) During the semester and before the course withdrawal deadline, students are informed by the course instructors of their performance in each course. In providing such information, instructors follow the principle of confidentiality.
+(6) The examination dates of the courses for which mid-term examinations are given are determined by the program coordinator concerned upon the proposals of the course instructor/instructors and announced within the first four weeks of a semester. The examination dates of multi-section compulsory courses taken by the students of multiple programs are determined and announced by the program coordinator/head of academic board concerned in coordination with the RO.
+(7) The examinations other than the mid-term and final examinations may be given with no predetermined date.
+(8) Final examinations are arranged as follows: a) The times and dates of the final examinations are determined and announced by the RO following consultations with the program coordinator/head of academic board concerned. b) The pre-announced final examination dates may be changed by the RO upon the reasoned request of the program coordinator/head of academic board concerned provided that the new dates are within the period of final examinations. The changes are made before the period of final examinations starts.
+(9) When necessary, classes and examinations may also be held on weekdays after the working hours and/or at the weekends.
+(10) Instructors and proctors are responsible for the smooth and proper running of the examinations.
+(11) The criteria for the procedures to be applied for students who have failed to take an examination are determined by the program coordinator/head of academic board concerned upon the proposals of the course instructor/instructors.
+
+## ARTICLE 24 – Assessment and grades
+
+(1) Students receive a letter grade for each course at the end of the semester they are registered in.
+(2) The letter grades are at the discretion of the course instructors.
+(3) In determining the letter grades, the students’ success in the mid-term and final examinations and in the studies they carried out within the semester and their attendance to the theoretical and practical course hours are considered.
+(4) The courses for which an exemption exam will be given, the conditions required for exemption and the application criteria are determined by the Senate following the proposal of the academic board concerned.
+(5) The coefficient, score intervals and status of the letter grades used in the calculation of the Grade Point Averages are shown in the table below: a) Letter Grade Coefficient Score Interval AA 4.00 90-100 BA 3.50 85-89 BB 3.00 80-84 CB 2.50 75-79 CC 2.00 70-74 DC 1.50 65-69 DD 1.00 60-64 FD 0.50 50-59 FF 0.00 0-49 NA 0.00 - Letter Grade Status S Satisfactory Completion U Unsatisfactory EX Exemption I Incomplete W Withdrawn b) NA is the grade given to students for any one of the reasons stated below, and is processed as FF while calculating Grade Point Averages: 1) The student does not fulfill the attendance requirements for theoretical and practical class hours as indicated on course syllabus. 2) The student does not qualify to take the final exam due to failure to fulfill the course requirements as indicated in the course syllabus. 3) The student has not taken the mid-term and final examinations. c) The letter grades which are not included in the Grade Point Averages are stated below: 1) The grade S (Satisfactory Completion) is given to students who are successful in non-credit courses. 2) The grade U (Unsatisfactory) is given to students who are not successful in non-credit courses. 3) The grade EX (Exemption) is given to students who are exempt from some of the courses in the curriculum. 4) The grade I (Incomplete) is given to students who cannot complete the course requirements by the end of the semester or the summer school for a valid reason which is accepted by the course instructor. The grade I is converted to a letter grade within one week after the scheduled submission deadline for the semester and summer school grades. However, in certain cases it is possible to extend this time limit till the first day of the next registration period, which requires the recommendation of the program coordinator concerned and the approval of the academic board on which the undergraduate program concerned is represented. The grade I is converted to FF or U automatically if it is not converted to a letter grade before the deadline. The dates concerning the grade I are specified on the academic calendar. 5) A grade of W (course withdrawal) is assigned to students who withdraw from a course.
+
+## ARTICLE 25 – Submitting and announcing grades and correcting errors in grading
+
+(1) The semester final grades are submitted by course instructors on the dates stated in the academic calendar.
+(2) The grades are announced in the University Student Information System which can be accessed by students on the date stated in the academic calendar.
+(3) Any errors in grading are corrected by the RO with the approval of the program coordinator concerned, upon the course instructor’s request for correction within one week from the last day for submission of semester or summer school final grades to the RO. In cases where this period is exceeded, correction of errors in grading is subject to the recommendation of the program coordinator concerned and the approval of the academic board on which the undergraduate program concerned is represented. The deadline for correction of errors in grading is specified on the academic calendar.
+
+## ARTICLE 26 – Repeating courses
+
+(1) Courses for which the letter grades FF, FD, NA, U, and W are received must be repeated, except for courses with NI status.
+(2) Instead of the elective courses which must be repeated, students may take other elective courses of the same category/type, included in the curriculum. Special cases are resolved by the academic board concerned upon the recommendation of the program coordinator.
+(3) Students who have received a DD grade or above in a course may repeat the course within four semesters following the initial semester in which the course was taken. A student may repeat courses a maximum of six times during their undergraduate education. This rule does not apply to students on probation or to students who have earned passing grades in all courses required for graduation but have not met the required cumulative grade point average.
+(4) Regardless of the previous grade, the grade received from the repeated course is valid.
+
+## ARTICLE 27 – Grade Point Averages
+
+(1) Students’ semester Grade Point Averages and Cumulative Grade Point Averages are calculated at the end of each semester and their success status is determined.
+(2) The total credit points obtained from a course are calculated by multiplying the credit value of the course by the coefficient corresponding to the letter grade received from the course at the end of the semester.
+(3) Semester Grade Point Average is calculated by dividing the total credit points obtained from all the courses in which the student is registered for in the semester concerned by the total of the credit values of those courses.
+(4) Cumulative Grade Point Average is calculated by dividing the total credit points obtained from all the courses the student has taken up to that time, including the semester concerned, by the total of the credit values of those courses.
+(5) Grade Point Averages obtained from the calculations are expressed by rounding the values after comma. In rounding numbers, the second digit after comma is not changed if the third digit is smaller than 5, but it is increased by 1 if the third digit is 5 or greater.
+
+## ARTICLE 28 – Successful students
+
+(1) Students whose Cumulative and Semester Grade Point Averages are at least 2,00 and who have not received a failing grade (FF, FD, NA, and U) in the semester concerned qualify as follows according to their Semester Grade Point Averages: a) Students whose Semester Grade Point Averages are 3,50 – 4,00 are qualified as High Honors, and the ones whose Semester Grade Point Averages are 3,00 – 3,49 are qualified as Honors students providing that they are within their maximum period of study and they have taken at least three credit courses in the semester concerned. Students who fulfill the Grade Point requirement but who fail to fulfill the requirement for three credit courses are qualified as Satisfactory students. b) Students who are within their maximum period of study and whose Semester Grade Point Averages are 2,00 – 2,99 and students who have exceeded the maximum period of study and whose Semester Grade Point Averages are at least 2,00 qualify as Satisfactory students.
+(2) Students whose Cumulative and Semester Grade Point Averages are at least 2,00 but who have obtained a failing grade from a course in the semester concerned are qualified as Sufficient students.
+
+## ARTICLE 29 – Unsuccessful students
+
+(1) Students whose Cumulative and/or Semester Grade Point Averages are below 2,00 are qualified as Unsatisfactory students.
+
+## ARTICLE 30 – Students on probation
+
+(1) Students whose Cumulative Grade Point Averages are below 2,00 in two consecutive semesters are qualified as students on probation.
+(2) Students on probation first repeat the courses for which they have received FF, FD, NA, or U grades. Upon request, they may also repeat courses they have previously passed.
+(3) Students on probation may register for courses, provided that they do not exceed the normal semester course load of the program, in accordance with the following provisions: a) Students whose Cumulative Grade Point Average is below 1.80 may not register for courses they have not previously taken or for courses from which they have withdrawn and received a W grade. b) Students whose Cumulative Grade Point Average is between 1.80 and 1.99 may register for a maximum of three courses they have not previously taken.
+(4) The minimum course load requirement mentioned in this Regulation is not valid for students on probation.
+(5) The Cumulative Grade Point Average of students on probation must be at least 2.00 in order for their probation status to end.
+
+## ARTICLE 31 – Graduation requirements and dates
+
+(1) The following requirements must be fulfilled in order to be eligible for graduation from an undergraduate program: a) All the courses included in the curriculum must be completed with at least the letter grades DD or S. b) The Cumulative Grade Point Average must be at least 2,00. c) Students must have obtained at least half of the total credit points required by the curriculum from the courses offered at METU, with the exception of the international joint-degree programs carried out with the contracted universities abroad. d) The last two semesters in registered status must be spent at METU, with the exception of the student exchange programs and international joint-degree programs carried out with the contracted universities abroad.
+(2) The date of graduation from undergraduate programs is determined as follows: a) The date of graduation from undergraduate programs is the date of announcement of the relevant semester or summer school letter grades stated in the academic calendar. After the announcement of the letter grades, the graduation date is when the letter grade is finalized following the correction of grading errors, the completion of the grade I, and the use of the right to resit examination. b) For students who want to leave the university by receiving an Associate Degree Diploma before they become eligible for graduation from an undergraduate program, the graduation date is the date of announcement of the letter grades for the semester in which the student has obtained the right to receive the diploma.
+
+## ARTICLE 32 – Resit examinations
+
+(1) The regulations for the resit examinations are determined by the Senate.
+
+## ARTICLE 33 – Procedures upon the elapse of the maximum period of study
+
+(1) Students who are not eligible for graduation upon the elapse of the maximum period of study for their program are subject to the procedures set forth by the Senate in accordance with paragraph (c) of Article 44 of Law No. 2547.
+
+## ARTICLE 34 – Diplomas, certificates and other documents
+
+(1) The diplomas, certificates and other documents awarded to students and the requirements for these are defined as follows: a) Undergraduate Diploma: This is awarded to students who meet the requirements for graduation from an undergraduate degree program. b) Double Major Diploma: This is awarded to students who meet the requirements for graduation from both the undergraduate degree program and the double major degree program they are registered for. c) Associate Degree Diploma: This is awarded to students who want to leave the University before qualifying for graduation from an undergraduate program, upon their application and finalizing the process of disenrollment. In order to qualify for an associate degree diploma, students must have received the letter grades of at least DD or S from all the courses in the curriculum for the first four semesters, and the Cumulative Grade Point Average of these courses must be at least 2,00. d) Interim Certificate of Graduation: This document is given to students who obtain the right to graduate only once as a substitute for a diploma, and is valid until the date of the graduation ceremony of the academic year concerned. e) Diploma Supplement: This is a document attached to a higher education diploma, aiming at the recognition of academic and professional qualifications at an international level. f) Certificate of Graduation with High Achievement: This is a document which is given to high ranking graduates in undergraduate programs. Decisions regarding how the rank ordering of graduating students is to be determined are made by the Senate. g) Minor Program Certificate: This is a document given to students who are eligible for graduation from an undergraduate degree they are registered for and who also successfully complete a minor degree program they are registered in. This document is a certificate, not a diploma. h) Transcript: This is a document which shows the courses students have taken in each semester since they registered in the university, course credit values, the grades received in the courses, the Grade Point Averages in the semesters concerned, and the Cumulative Grade Point Average. i) Student Success Certificate: This is a document given to “Honors” or “High Honors” students at the end of a semester. j) Student Certificate: This is a document which shows the registration status of a student.
+(2) Diplomas, certificates, and documents are signed by the designated University officials.
+(3) Students who complete undergraduate and/or double major programs with Cumulative Grade Point Averages of 3,00 – 3,49 are qualified as “Honors” and the ones with Cumulative Grade Point Averages of 3,50 or above are qualified as “High Honors” graduates. These qualifications are stated in the diplomas.
+(4) The form and sizes of the diplomas and the information to be stated in them are determined by the Senate.
+(5) In the event that a diploma or certificate is lost, a new copy is issued only once. The new copy is printed with the phrase “second copy” on it.
+(6) In the event that the name and/or surname of the graduate has changed after the graduation date, new copies of diplomas and/or certificates are not issued, nor is the information on them changed.
+
+## ARTICLE 35 – Advisory
+
+(1) The program coordinator concerned assigns an academic advisor from among the full-time faculty members and instructors to each student registered in an undergraduate program.
+(2) The academic advisor; a) meets with each student under their academic advising at least once during each semester, b) informs the students about the courses they will take each semester and provides guidance in choosing them, c) informs and guides students in adapting to university life and in the areas of professional growth and career development, d) meets with the student, conducts the necessary evaluation, provides guidance, and approves the student’s registration in cases requiring academic evaluation as determined by the relevant academic boards.
+
+## ARTICLE 36 – Disciplinary procedures
+
+(1) Disciplinary procedures concerning students are carried out in accordance with the provisions of Article 54 of Higher Education Law No. 2547.
+
+## ARTICLE 37 – Student grants and aids
+
+(1) The regulations for the distribution of student grants and aids provided from various sources are determined by the Senate.
+
+## ARTICLE 38 – Health services
+
+(1) The regulations for the health service offered to students are determined by the Senate.
+
+## ARTICLE 39 – Tuition fee and other fees
+
+(1) Tuition fees, registration fees, per-credit course fees, refunds, offsets, financial obligations relating to periods of leave, and other fees are determined by the University Administrative Board.
+
+## ARTICLE 40 – Leave of absence
+
+(1) Students may be granted leave of absence for a total of four semesters, not exceeding two semesters at a time, with the approval of the relevant academic board, on the grounds of health, military service, study at a higher education institution in the country or abroad, academic reasons (where a compulsory course required by the curriculum is not offered in the relevant semester), or financial or family obligations. For leave requests exceeding four semesters, the University Administrative Board is authorized to decide only in the case of students whose medical condition and treatment continue to require leave and students serving a prison sentence.
+(2) Students who wish to be granted leave of absence must apply to the program coordinator/head of academic board concerned with a petition stating valid and reasonable grounds for the leave request and providing the necessary documents no later than the end of the add-drop week of the semester concerned. However, no time restrictions exist for application in the event that the grounds for the leave request arise after the end of the add-drop week.
+(3) If the date of the student's petition for leave is prior to the last day of the registration period, the student is not required to have completed semester registration or paid the tuition and registration fee at the time of application. If the petition is submitted after the last day of the registration period but within the add/drop period, the student is required to have completed all registration procedures and to have paid the tuition and registration fee in full in order to apply; otherwise, the student is considered unregistered and the leave request is not processed. Where the reason for leave arises after the end of the add/drop period, the student must have registered for the relevant semester in order to apply for leave.
+(4) The relevant academic board forwards its decision to the RO, where it is processed.
+(5) Students who wish to return to the University before the expiration of the leave of absence period must submit a petition to the program coordinator/head of academic board concerned before the period of interactive registration starts. Applications approved by the academic board concerned with the recommendations of the program coordinator are sent to the RO for processing.
+
+## ARTICLE 41 – Disenrollment
+
+(1) Students may disenroll from the University through the METU NCC Intranet System.
+(2) Students who disenroll from an undergraduate program by receiving an Associate Degree Diploma or without meeting the graduation requirements forfeit all Student rights at the University and may never register again in the program from which they have withdrawn in order to complete their undergraduate education.
+
+## ARTICLE 42 – Access to Students’ Academic Status Information
+
+(1) All actions concerning students registered in undergraduate programs that are submitted to the RO by the relevant academic boards are entered into the University Student Information System by the RO. Each student may access and view his/her academic status through the University Student Information System using the username and password assigned to them. No separate notification is sent to the student.
+(2) Undergraduate students is required to monitor the status of their military service obligations through the e-Government Gateway. No separate notification is sent to the student.
+(3) Students must follow the messages sent to their e-mail addresses provided by the University.
+
+## ARTICLE 43 – Northern Cyprus Campus
+
+(1) The procedures and principles for the application of the Middle East Technical University Undergraduate Education Regulation to the undergraduate programs offered at the Northern Cyprus Campus are determined by the Senate.
+
+## ARTICLE 44 – Cases Not Covered
+
+(1) In cases not covered by this Regulation, the provisions of Law No. 2547, other relevant legislation, and the decisions of the Council of Higher Education apply.
+
+## ARTICLE 45 – Repealed Regulation
+
+(1) The Middle East Technical University Undergraduate Education Regulation, published in the Official Gazette dated 16 August 2015 and numbered 29447, has been repealed. Transitional Provisions PROVISIONAL ARTICLE 1 -
+(1) For students who earned the right to register in an undergraduate program during or before the first semester of the 2014 – 2015 academic year, the maximum period of study stated in Article 6 and Article 33 of this Regulation starts in the second semester of 2014 – 2015 academic year. Course Repetition PROVISIONAL ARTICLE 2 -
+(1) Paragraph
+(3) of Article 26 applies to students who begin an undergraduate program in the first semester of the 2026–2027 academic year or thereafter. For students who began an undergraduate program before this date, any previous course repetitions are not taken into account, and the student's most recent enrollment in the course is regarded as the first enrollment.
+
+## ARTICLE 46 – Validity
+
+(1) This Regulation shall take effect at the beginning of the 2026–2027 academic year.
+
+## ARTICLE 47 – Execution
+
+(1) The provisions of this Regulation are executed by the Rector of the Middle East Technical University.

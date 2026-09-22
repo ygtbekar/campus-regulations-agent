@@ -1,0 +1,20 @@
+[
+  {
+    "id": "metu-ncc-undergrad-2026-en",
+    "title": "METU NCC Undergraduate Education Regulation (2026)",
+    "language": "en",
+    "url": "https://ncc.metu.edu.tr/ro/undergraduate-education-regulation",
+    "retrieved_at": "2026-09-22",
+    "sha256": "45a136b6e4988f6c44f99e75ff4e3258d1d83b0da4aaaeaa4bde0b23f4bd7e00",
+    "articles": 47
+  },
+  {
+    "id": "metu-ncc-undergrad-2026-tr",
+    "title": "ODTÜ KKK Lisans Eğitim Öğretim Yönetmeliği (2026)",
+    "language": "tr",
+    "url": "https://ncc.metu.edu.tr/tr/oim/lisans-yonetmeligi",
+    "retrieved_at": "2026-09-22",
+    "sha256": "f2126cd6c90342e4181348dda0b5425752d77cb598fbed53712ee99c568f1c35",
+    "articles": 47
+  }
+]
