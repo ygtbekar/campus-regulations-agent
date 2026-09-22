@@ -76,6 +76,10 @@ def build_index() -> None:
 _authoritative = {a["number"]: a for a in load_articles(AUTHORITATIVE_LANGUAGE)}
 
 
+def article_title(number: int) -> str:
+    return _authoritative[number]["title"]
+
+
 def search_regulations(query: str, k: int = 4) -> list[dict]:
     """Return the k most relevant articles. Both languages are searched, but each article
     appears once and always with its authoritative Turkish text."""
