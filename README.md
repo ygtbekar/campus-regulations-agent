@@ -151,7 +151,8 @@ university's own site, with a SHA-256 recorded in `sources.json`.
 ## Also here
 
 - **MCP server** (`mcp_server.py`) — the same four tools exposed over the Model Context Protocol,
-  so Claude Desktop or any MCP client can search the regulation. Smoke-tested by
+  so any MCP client (a desktop assistant, an IDE, another agent) can search the regulation.
+  Smoke-tested by
   `tests/test_mcp_server.py`, which starts the server, lists its tools and calls two of them.
 - **Offline unit tests** (`tests/test_validation.py`) — 10 tests for the guardrails and tools,
   no model calls.

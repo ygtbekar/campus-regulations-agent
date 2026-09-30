@@ -1,8 +1,8 @@
-"""MCP server: exposes this project's tools to any MCP client (Claude Desktop, IDEs, other agents).
+"""MCP server: exposes this project's tools to any MCP client (desktop assistants, IDEs, agents).
 
     python mcp_server.py          # speaks MCP over stdio
 
-Claude Desktop configuration:
+Example client configuration:
 
     {
       "mcpServers": {
