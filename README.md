@@ -1,6 +1,6 @@
 # 📚 Campus Regulations Agent
 
-**An AI assistant that answers students' questions about the METU Northern Cyprus Campus
+**An AI assistant that answers students' questions about the METU 
 undergraduate regulation, shows the article it relied on, and says *"I could not find this"*
 instead of guessing.**
 
