@@ -17,9 +17,10 @@
     "expected_articles": [
       7
     ],
-    "key_facts": "Yönetmelik yaz okulu açılabileceğini söyler; yaz okuluna ilişkin esaslar Senato tarafından belirlenir. Hangi derslerin alınabileceği bu yönetmelikte düzenlenmemiştir.",
+    "key_facts": "Yönetmelik yaz okulu açılabileceğini (MADDE 7/2) ve yaz okulunda verilecek derslerin ilgili program koordinatörlükleri/akademik kurul tarafından belirlendiğini (MADDE 7/5) söyler; yaz okuluna ilişkin esaslar Senato tarafından belirlenir. Hangi belirli derslerin açılacağı bu yönetmelikte yazmaz.",
     "source": "student",
-    "question_en": "Which kinds of courses can I take in the summer school?"
+    "question_en": "Which kinds of courses can I take in the summer school?",
+    "answer_key_fixed": "2026-09-30: ilk anahtar MADDE 7/5'i atlıyordu, düzeltildi"
   },
   {
     "id": "q03",

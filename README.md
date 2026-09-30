@@ -23,18 +23,27 @@ For rules, a confident wrong answer is worse than no answer.
 
 ## What it does
 
-```
-Student: Birinci sınıftayım, bu dönem bir dersten çekilebilir miyim?
+Real output, unedited (`python agent.py`):
 
+```
+Sen: Birinci sınıftayım, bu dönem bir dersten çekilebilir miyim?
   💭 Düşünüyor...
   📚 Yönetmelikte aranıyor...
 
-Asistan: MADDE 22'ye göre dersten çekilme işlemi yarıyılın onuncu haftası içinde yapılır;
-bir yarıyılda en çok bir, öğrenim boyunca en çok altı dersten çekilebilirsiniz. Ancak
-müfredatın ilk iki yarıyılındaki derslerden çekilme yapılamaz. Birinci sınıf öğrencisi
-olduğunuz için bu dönem bir dersten çekilemezsiniz.
+Asistan: Hayır, bu dönem bir dersten çekilemezsiniz. METU NCC Lisans Öğretim ve Eğitim
+Yönetmeliği'nin MADDE 22 maddesi gereği: (d) Müfredatın ilk iki yarıyılındaki derslerden
+çekilme işlemi yapılamaz. Birinci sınıf öğrencisi olarak hâlâ müfredatın ilk iki
+yarıyılındasınız, bu yüzden bu dönem herhangi bir dersden çekilemezsiniz. Ayrıca aynı
+maddeye göre çekilme işlemi sadece yarıyılın onuncu haftası içinde yapılabilir, öğretim
+elemanına bilgi verilmelidir, bir yarıyılda en fazla bir dersten, öğrenim boyunca en fazla
+altı dersten çekilebilir, tekrarlanan veya daha önce çekilme işlemi yapılan, NI statüsünde
+alınan veya kredisiz derslerden çekilemez ve asgari ders yükü veya altında ders alan
+öğrenciler çekilemez.
   📄 Kaynak: MADDE 22 – Dersten çekilme
 ```
+
+*(Translation: "No, you cannot withdraw this semester" — followed by every condition in
+Article 22, and the reason it applies to a first-year student.)*
 
 - **Grounded answers** — every claim comes from the retrieved article, in Turkish or English.
 - **Verified citations** — an article number is shown only if the search really returned it in that
@@ -116,11 +125,12 @@ copy .env.example .env          # then paste your free key from https://build.nv
 .venv\Scripts\streamlit.exe run app.py         # web interface
 ```
 
-Evaluation:
+Evaluation and tests:
 
 ```bash
-.venv\Scripts\python.exe eval_retrieval.py     # search quality
-.venv\Scripts\python.exe eval_agent.py         # end-to-end, graded by a second model
+.venv\Scripts\python.exe eval_retrieval.py            # search quality
+.venv\Scripts\python.exe eval_agent.py                # end-to-end, graded by a second model
+.venv\Scripts\python.exe -m unittest discover tests   # guardrail unit tests, no model calls
 ```
 
 ## Files
@@ -133,6 +143,7 @@ Evaluation:
 | `ingest.py` | Downloads the regulation and splits it into articles |
 | `app.py` | Streamlit interface |
 | `eval_retrieval.py` / `eval_agent.py` | The two evaluations |
+| `tests/test_validation.py` | Unit tests for the guardrails and tools (offline) |
 | `chat.py`, `structured.py`, `hello_nim.py` | Build-up steps kept for reference |
 | `data/regulations/` | Source texts (TR + EN) with URL, date and checksum |
 | `notes/` | Experiment notes |
@@ -143,3 +154,9 @@ Python 3.12 · NVIDIA NIM (`nemotron-3-super-120b-a12b` for chat, `llama-nemotro
 for embeddings, `gpt-oss-20b` as evaluation judge) · Chroma · Pydantic · Streamlit.
 
 The LLM calls use the OpenAI-compatible API, so the provider can be swapped by changing a base URL.
+
+## License
+
+Code: [MIT](LICENSE). The regulation texts under `data/regulations/` are official public documents
+published by METU and are included so the results can be reproduced; the binding version is the one
+on the university's own site, linked in `sources.json`.
