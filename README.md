@@ -4,6 +4,7 @@
 undergraduate regulation, shows the article it relied on, and says *"I could not find this"*
 instead of guessing.**
 
+[![tests](https://github.com/ygtbekar/campus-regulations-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/ygtbekar/campus-regulations-agent/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![NVIDIA NIM](https://img.shields.io/badge/LLM-NVIDIA%20NIM-76B900?logo=nvidia&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Vector%20DB-Chroma-FF6B6B)

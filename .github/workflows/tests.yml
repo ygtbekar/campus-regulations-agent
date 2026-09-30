@@ -1,0 +1,23 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    env:
+      # The guardrail tests never call the API; the client just needs a value to start up.
+      NVIDIA_API_KEY: dummy-key-for-offline-tests
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Guardrail and tool unit tests
+        run: python -m unittest discover tests -v
