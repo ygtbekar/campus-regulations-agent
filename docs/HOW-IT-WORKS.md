@@ -138,6 +138,16 @@ family** as judge (`openai/gpt-oss-20b`), so the system is not marking its own h
 Out-of-scope questions are graded on refusal, because an assistant that answers everything is
 indistinguishable from one that invents things.
 
+## What was deliberately not built
+
+- **No reranker.** The usual next step in a RAG pipeline, and a reasonable thing to reach for — but
+  hit@4 is already 100% on the evaluation set, so there is nothing for a reranker to fix. Adding it
+  would have added a model call per question and a dependency, for a measured gain of zero.
+- **No academic calendar (yet).** The obvious next source: it would turn "when is add-drop?" from a
+  pointer into an answer, and combined with `days_until` it could answer "how many days are left?".
+  It was left out because it introduces a second citation type and a second validation rule, and the
+  system was stable two days before the deadline. It is the first thing to add next.
+
 ## Known limitations
 
 - **One document.** Only the undergraduate regulation. The academic calendar is not indexed, so

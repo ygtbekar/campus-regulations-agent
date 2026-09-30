@@ -84,6 +84,11 @@ def article_text(number: int) -> str:
     return _authoritative[number]["text"]
 
 
+def article_exists(number: int) -> bool:
+    """Is this a real article of the ingested regulation? Used to block forged citations."""
+    return number in _authoritative
+
+
 def search_regulations(query: str, k: int = 4) -> list[dict]:
     """Return the k most relevant articles. Both languages are searched, but each article
     appears once and always with its authoritative Turkish text."""

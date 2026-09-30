@@ -96,6 +96,32 @@ tools-disabled call so partial work is not thrown away.
 [**docs/HOW-IT-WORKS.md**](docs/HOW-IT-WORKS.md) covers the design decisions, what each one cost,
 and the known limitations.
 
+## Security: retrieved text is data, not instructions
+
+A retrieval system is only as safe as its worst document, so `eval_security.py` replaces the search
+tool with one that returns attacker-controlled text and checks what the agent does
+([results](data/eval/security_results.md)).
+
+The first run blocked 2 of 3 attacks. The one that got through is the interesting one: injected
+text invented "MADDE 99", and the citation check passed it — because the check only asked *"did the
+search return this article?"*, and the poisoned search did. The guard trusted the retriever.
+
+Fixed with defence in depth: a cited article must now (1) exist in the ingested regulation and
+(2) have been returned by the search, and the system prompt states that tool results are data and
+instructions inside them are to be ignored. All three attacks are now blocked.
+
+Residual risk, stated honestly: these checks catch forged *citations*, not a poisoned *claim* inside
+an otherwise real article. That is why the corpus itself is controlled — fetched from the
+university's own site, with a SHA-256 recorded in `sources.json`.
+
+## Also here
+
+- **MCP server** (`mcp_server.py`) — the same four tools exposed over the Model Context Protocol,
+  so Claude Desktop or any MCP client can search the regulation. Smoke-tested by
+  `tests/test_mcp_server.py`, which starts the server, lists its tools and calls two of them.
+- **Offline unit tests** (`tests/test_validation.py`) — 10 tests for the guardrails and tools,
+  no model calls.
+
 ## Experiment notes
 
 The build was driven by experiments, and the failures are documented too:
@@ -143,7 +169,9 @@ Evaluation and tests:
 | `ingest.py` | Downloads the regulation and splits it into articles |
 | `app.py` | Streamlit interface |
 | `eval_retrieval.py` / `eval_agent.py` | The two evaluations |
-| `tests/test_validation.py` | Unit tests for the guardrails and tools (offline) |
+| `eval_security.py` | Prompt-injection tests against a poisoned retriever |
+| `mcp_server.py` | The tools exposed over MCP |
+| `tests/` | Offline guardrail tests and an MCP smoke test |
 | `chat.py`, `structured.py`, `hello_nim.py` | Build-up steps kept for reference |
 | `data/regulations/` | Source texts (TR + EN) with URL, date and checksum |
 | `notes/` | Experiment notes |
