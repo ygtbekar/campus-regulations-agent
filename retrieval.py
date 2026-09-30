@@ -35,12 +35,12 @@ def load_articles(language: str) -> list[dict]:
     return json.loads((REGULATION_DIR / DOCUMENTS[language]).read_text(encoding="utf-8"))
 
 
-def embed(texts: list[str], input_type: str) -> list[list[float]]:
+def embed(texts: list[str], input_type: str, model: str = EMBED_MODEL) -> list[list[float]]:
     """input_type is "passage" for documents and "query" for questions (the model treats them differently)."""
     vectors = []
     for start in range(0, len(texts), 16):  # small batches keep us under the free-tier rate limit
         response = client.embeddings.create(
-            model=EMBED_MODEL,
+            model=model,
             input=texts[start:start + 16],
             extra_body={"input_type": input_type, "truncate": "END"},
         )
@@ -78,6 +78,10 @@ _authoritative = {a["number"]: a for a in load_articles(AUTHORITATIVE_LANGUAGE)}
 
 def article_title(number: int) -> str:
     return _authoritative[number]["title"]
+
+
+def article_text(number: int) -> str:
+    return _authoritative[number]["text"]
 
 
 def search_regulations(query: str, k: int = 4) -> list[dict]:

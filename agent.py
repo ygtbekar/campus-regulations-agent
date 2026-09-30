@@ -104,11 +104,19 @@ def parse_final_answer(text: str, retrieved: set[int]) -> AgentAnswer:
     return result
 
 
-def run_agent(messages: list, retrieved: set[int]) -> AgentAnswer:
-    """The agent loop: ask the model; run the tools it requests; validate its final answer."""
+def run_agent(messages: list, retrieved: set[int], on_status=None) -> AgentAnswer:
+    """The agent loop: ask the model; run the tools it requests; validate its final answer.
+
+    on_status: optional callback so a user interface can show the same progress as the terminal.
+    """
+    def emit(text: str) -> None:
+        print(f"  {text}")
+        if on_status:
+            on_status(text)
+
     for step in range(1, MAX_STEPS + 1):
         if step == 1 or DEBUG:
-            print("  💭 Düşünüyor...")
+            emit("💭 Düşünüyor...")
         response = client.chat.completions.create(
             model=MODEL,
             messages=messages,
@@ -123,9 +131,9 @@ def run_agent(messages: list, retrieved: set[int]) -> AgentAnswer:
             for tool_call in message.tool_calls:
                 name = tool_call.function.name
                 if DEBUG:
-                    print(f"  🔧 {name}({tool_call.function.arguments})")
+                    emit(f"🔧 {name}({tool_call.function.arguments})")
                 else:
-                    print(f"  {TOOL_LABELS.get(name, '🔧 Bir işlem yapılıyor...')}")
+                    emit(TOOL_LABELS.get(name, "🔧 Bir işlem yapılıyor..."))
                 result = run_tool(tool_call)
                 if DEBUG:
                     print(f"     ↳ {str(result)[:300]}")
@@ -144,12 +152,12 @@ def run_agent(messages: list, retrieved: set[int]) -> AgentAnswer:
             # Reasoning models sometimes put everything in their hidden "thinking" field
             # and leave the visible answer empty. Drop that empty turn and try again.
             messages.pop()
-            print("  ↻ Boş cevap geldi, tekrar deneniyor...")
+            emit("↻ Boş cevap geldi, tekrar deneniyor...")
             continue
         try:
             return parse_final_answer(message.content, retrieved)
         except ValueError as error:  # pydantic's ValidationError is a ValueError too
-            print("  ↻ Cevap doğrulamadan geçemedi, düzeltiliyor...")
+            emit("↻ Cevap doğrulamadan geçemedi, düzeltiliyor...")
             if DEBUG:
                 print(f"     ↳ {str(error)[:300]}")
             messages.append({
@@ -159,7 +167,7 @@ def run_agent(messages: list, retrieved: set[int]) -> AgentAnswer:
 
     # Step limit reached. Instead of throwing away the tool results we already have,
     # ask one last time with tools disabled: "answer with what you've got".
-    print("  ⚠️ Adım sınırına ulaşıldı, eldeki bilgiyle cevaplanıyor...")
+    emit("⚠️ Adım sınırına ulaşıldı, eldeki bilgiyle cevaplanıyor...")
     for _ in range(2):
         response = client.chat.completions.create(
             model=MODEL,

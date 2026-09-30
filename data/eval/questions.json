@@ -1,0 +1,277 @@
+[
+  {
+    "id": "q01",
+    "question": "İki dönem üst üste genel not ortalamam 2,00'ın altında kaldı. Sınamalı duruma düştüm mü?",
+    "type": "in_scope",
+    "expected_articles": [
+      30
+    ],
+    "key_facts": "Genel not ortalaması iki yarıyıl üst üste 2,00'ın altında olan öğrenci sınamalı (probation) sayılır. Yani evet.",
+    "source": "student",
+    "question_en": "My CGPA has been below 2.00 for two consecutive semesters. Am I on probation now?"
+  },
+  {
+    "id": "q02",
+    "question": "Yaz okulunda hangi tür dersleri alabilirim?",
+    "type": "partial",
+    "expected_articles": [
+      7
+    ],
+    "key_facts": "Yönetmelik yaz okulu açılabileceğini söyler; yaz okuluna ilişkin esaslar Senato tarafından belirlenir. Hangi derslerin alınabileceği bu yönetmelikte düzenlenmemiştir.",
+    "source": "student",
+    "question_en": "Which kinds of courses can I take in the summer school?"
+  },
+  {
+    "id": "q03",
+    "question": "Bir dönemde en fazla kaç ders alabilirim?",
+    "type": "in_scope",
+    "expected_articles": [
+      18
+    ],
+    "key_facts": "Ders yükü normal ders yükü ile sınırlıdır. Genel not ortalaması en az 2,00 olanlar en fazla bir ders, en az 2,50 olanlar en fazla iki ders artırabilir.",
+    "source": "student",
+    "question_en": "What is the maximum number of courses I can take in one semester?"
+  },
+  {
+    "id": "q04",
+    "question": "Genel ortalamam 2,60. Normal ders yüküne kaç ders ekleyebilirim?",
+    "type": "in_scope",
+    "expected_articles": [
+      18
+    ],
+    "key_facts": "Genel not ortalaması en az 2,50 olduğu için en fazla iki ders artırabilir.",
+    "question_en": "My CGPA is 2.60. By how many courses can I exceed the normal course load?"
+  },
+  {
+    "id": "q05",
+    "question": "Bir yarıyılda en az kaç ders almam gerekiyor?",
+    "type": "in_scope",
+    "expected_articles": [
+      18
+    ],
+    "key_facts": "Asgari ders yükü kredili üç derstir; gerekçeli durumlarda danışman ve ilgili koordinatörlük/akademik kurul onayıyla azaltılabilir.",
+    "question_en": "What is the minimum number of courses I must take in a semester?"
+  },
+  {
+    "id": "q06",
+    "question": "Sınamalı öğrenciyim ve genel ortalamam 1,70. Daha önce hiç almadığım bir dersi alabilir miyim?",
+    "type": "in_scope",
+    "expected_articles": [
+      30
+    ],
+    "key_facts": "Genel not ortalaması 1,80'in altında olan sınamalı öğrenciler daha önce almadıkları dersleri veya W notu aldıkları dersleri alamaz. Yani hayır.",
+    "question_en": "I am on probation with a CGPA of 1.70. Can I register for a course I have never taken before?"
+  },
+  {
+    "id": "q07",
+    "question": "Bir dersten çekilmek istiyorum, bunu ne zaman yapabilirim?",
+    "type": "in_scope",
+    "expected_articles": [
+      22
+    ],
+    "key_facts": "Dersten çekilme işlemi yarıyılın onuncu haftası içinde yapılır ve dersi veren öğretim elemanına bilgi iletilir.",
+    "question_en": "When can I withdraw from a course?"
+  },
+  {
+    "id": "q08",
+    "question": "Öğrenimim boyunca toplam kaç dersten çekilebilirim?",
+    "type": "in_scope",
+    "expected_articles": [
+      22
+    ],
+    "key_facts": "Öğrenim boyunca en çok altı ders; bir yarıyılda en çok bir ders.",
+    "question_en": "How many courses can I withdraw from in total during my studies?"
+  },
+  {
+    "id": "q09",
+    "question": "Birinci sınıftayım. Bu dönem aldığım bir dersten çekilebilir miyim?",
+    "type": "in_scope",
+    "expected_articles": [
+      22
+    ],
+    "key_facts": "Müfredatın ilk iki yarıyılındaki derslerden çekilme yapılamaz. Yani hayır.",
+    "question_en": "I am a first-year student. Can I withdraw from a course this semester?"
+  },
+  {
+    "id": "q10",
+    "question": "NA notu ne demek ve not ortalamama nasıl etki eder?",
+    "type": "in_scope",
+    "expected_articles": [
+      24
+    ],
+    "key_facts": "NA notunun katsayısı 0,00'dır ve not ortalamalarında FF gibi işlem görür; devam veya ders gereklerinin yerine getirilmemesi gibi nedenlerle verilir.",
+    "question_en": "What does the NA grade mean and how does it affect my grade point average?"
+  },
+  {
+    "id": "q11",
+    "question": "AA notunun katsayısı kaçtır, hangi puan aralığına karşılık gelir?",
+    "type": "in_scope",
+    "expected_articles": [
+      24
+    ],
+    "key_facts": "AA notunun katsayısı 4,00, puan aralığı 90-100'dür.",
+    "question_en": "What is the coefficient of the AA grade and which score range does it correspond to?"
+  },
+  {
+    "id": "q12",
+    "question": "Mezun olabilmek için genel not ortalamam en az kaç olmalı?",
+    "type": "in_scope",
+    "expected_articles": [
+      31
+    ],
+    "key_facts": "Genel not ortalaması en az 2,00 olmalı ve müfredattaki tüm dersler en az DD veya S notu ile tamamlanmış olmalıdır.",
+    "question_en": "What is the minimum cumulative GPA required to graduate?"
+  },
+  {
+    "id": "q13",
+    "question": "Derslere devam etmek zorunlu mu?",
+    "type": "in_scope",
+    "expected_articles": [
+      23
+    ],
+    "key_facts": "Öğrencilerin derslere, uygulamalara, sınavlara ve öğretim elemanının gerekli gördüğü diğer akademik çalışmalara katılmaları zorunludur.",
+    "question_en": "Is attendance compulsory for courses?"
+  },
+  {
+    "id": "q14",
+    "question": "Hangi notları aldığım dersleri tekrar almak zorundayım?",
+    "type": "in_scope",
+    "expected_articles": [
+      26
+    ],
+    "key_facts": "FF, FD, NA, U ve W notu alınan derslerin (NI statüsündekiler hariç) tekrarlanması gerekir.",
+    "question_en": "Which grades force me to repeat a course?"
+  },
+  {
+    "id": "q15",
+    "question": "Geçtiğim bir dersi not yükseltmek için tekrar alabilir miyim?",
+    "type": "in_scope",
+    "expected_articles": [
+      26
+    ],
+    "key_facts": "DD ve üzeri not alınan dersler, dersin ilk alınışını izleyen dört yarıyıl içinde tekrarlanabilir; lisans eğitimi boyunca en fazla 6 kez ders tekrarı yapılabilir.",
+    "question_en": "Can I repeat a course I already passed in order to raise my grade?"
+  },
+  {
+    "id": "q16",
+    "question": "Şeref veya yüksek şeref öğrencisi olmak için ortalamam kaç olmalı?",
+    "type": "in_scope",
+    "expected_articles": [
+      28
+    ],
+    "key_facts": "Yarıyıl not ortalaması 3,50-4,00 arası Yüksek Şeref, 3,00-3,49 arası Şeref; ayrıca genel ve yarıyıl ortalaması en az 2,00 olmalı, o yarıyılda FF/FD/NA/U notu bulunmamalı ve en az üç kredili ders alınmış olmalıdır.",
+    "question_en": "What GPA do I need to be an honor or high honor student?"
+  },
+  {
+    "id": "q17",
+    "question": "Bir yarıyıl izin almak (kayıt dondurmak) istiyorum, en fazla ne kadar izin alabilirim?",
+    "type": "in_scope",
+    "expected_articles": [
+      40
+    ],
+    "key_facts": "İlgili akademik kurul kararıyla, her defasında iki yarıyılı aşmamak koşuluyla en fazla dört yarıyıl izin alınabilir; sağlık gibi istisnai durumlarda daha uzun süre mümkündür.",
+    "question_en": "I want to take a leave of absence. What is the maximum leave I can get?"
+  },
+  {
+    "id": "q18",
+    "question": "Akademik danışmanımın görevleri neler?",
+    "type": "in_scope",
+    "expected_articles": [
+      35
+    ],
+    "key_facts": "Her öğrenciye bir akademik danışman atanır; danışman dönemde en az bir kez görüşür, ders seçiminde yönlendirir, üniversite yaşamı ve kariyer konularında bilgilendirir.",
+    "question_en": "What are the duties of my academic advisor?"
+  },
+  {
+    "id": "q19",
+    "question": "Üniversiteden kaydımı sildirirsem tekrar aynı programa kayıt olabilir miyim?",
+    "type": "in_scope",
+    "expected_articles": [
+      41
+    ],
+    "key_facts": "Mezuniyet koşullarını sağlamadan kayıt sildiren öğrenciler tüm öğrencilik haklarını kaybeder ve aynı programa tekrar kayıt yaptıramaz.",
+    "question_en": "If I withdraw my registration from the university, can I register for the same program again?"
+  },
+  {
+    "id": "q20",
+    "question": "Bir eğitim öğretim yılı kaç hafta sürüyor?",
+    "type": "in_scope",
+    "expected_articles": [
+      7
+    ],
+    "key_facts": "Bir eğitim öğretim yılı, yarıyıl sonu sınav süreleri dahil her biri en az 16 haftalık iki yarıyıldan oluşur.",
+    "question_en": "How many weeks does one academic year last?"
+  },
+  {
+    "id": "q21",
+    "question": "Ders ekleme-bırakma işlemini ne zaman yapabilirim?",
+    "type": "partial",
+    "expected_articles": [
+      21
+    ],
+    "key_facts": "Yarıyıl kaydını tamamlamış öğrenciler akademik takvimde belirtilen ekle-bırak tarihlerinde ders ekleyip bırakabilir. Kesin tarihler yönetmelikte değil, akademik takvimdedir.",
+    "question_en": "When can I add or drop courses?"
+  },
+  {
+    "id": "q22",
+    "question": "Bütünleme sınavı hakkım var mı, kuralları neler?",
+    "type": "partial",
+    "expected_articles": [
+      32
+    ],
+    "key_facts": "Bütünleme sınavlarına ilişkin esaslar Senato tarafından belirlenir; ayrıntı bu yönetmelikte yoktur.",
+    "question_en": "Am I entitled to resit exams and what are the rules?"
+  },
+  {
+    "id": "q23",
+    "question": "Çift anadal programına başvuru koşulları neler?",
+    "type": "partial",
+    "expected_articles": [
+      10
+    ],
+    "key_facts": "Çift anadal programlarına ilişkin esaslar Senato tarafından belirlenir; yönetmelik yalnızca programın varlığını ve diplomasını tanımlar.",
+    "question_en": "What are the admission requirements for the double major program?"
+  },
+  {
+    "id": "q24",
+    "question": "Burs başvurusu için gereken belgeler neler?",
+    "type": "partial",
+    "expected_articles": [
+      37
+    ],
+    "key_facts": "Bursların dağıtımına ilişkin esaslar Senato tarafından belirlenir; başvuru belgeleri yönetmelikte yer almaz.",
+    "question_en": "Which documents do I need for a scholarship application?"
+  },
+  {
+    "id": "q25",
+    "question": "Kampüs yemekhanesi hafta içi saat kaçta açılıyor?",
+    "type": "out_of_scope",
+    "expected_articles": [],
+    "key_facts": "Bu konu lisans eğitim öğretim yönetmeliğinde düzenlenmemiştir.",
+    "question_en": "What time does the campus cafeteria open on weekdays?"
+  },
+  {
+    "id": "q26",
+    "question": "Yurt başvuruları ne zaman başlıyor ve oda ücretleri ne kadar?",
+    "type": "out_of_scope",
+    "expected_articles": [],
+    "key_facts": "Yurt başvuruları ve ücretleri bu yönetmelikte düzenlenmemiştir.",
+    "question_en": "When do dormitory applications start and how much are the room fees?"
+  },
+  {
+    "id": "q27",
+    "question": "Öğrenci kulübüne nasıl üye olabilirim?",
+    "type": "out_of_scope",
+    "expected_articles": [],
+    "key_facts": "Öğrenci kulüpleri bu yönetmelikte düzenlenmemiştir.",
+    "question_en": "How can I join a student club?"
+  },
+  {
+    "id": "q28",
+    "question": "CENG 300 dersinin bu dönemki final sınavı hangi gün yapılacak?",
+    "type": "out_of_scope",
+    "expected_articles": [],
+    "key_facts": "Belirli bir dersin sınav tarihi yönetmelikte yer almaz; akademik takvim ve ders programına bakılmalıdır.",
+    "question_en": "On which day is the final exam of CENG 300 this semester?"
+  }
+]

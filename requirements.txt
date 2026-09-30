@@ -3,3 +3,4 @@ chromadb
 openai
 pydantic
 python-dotenv
+streamlit
