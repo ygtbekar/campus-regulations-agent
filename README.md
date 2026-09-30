@@ -14,7 +14,8 @@ instead of guessing.**
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 > Unofficial student project. The binding text is the regulation itself.
-> Built as an application project for the YTU Startup House × NVIDIA AI Engineer Bootcamp.
+> I built it to learn practical AI engineering — retrieval, agent loops, evaluation — on a problem
+> I actually have as a student.
 
 ![The assistant answering a question, with the cited article opened underneath](docs/img/ui-answer.png)
 
