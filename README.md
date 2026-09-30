@@ -1,11 +1,21 @@
-# Campus Regulations Agent
+# 📚 Campus Regulations Agent
 
-An AI assistant that answers students' questions about the METU Northern Cyprus Campus
-undergraduate regulation, **shows the article it relied on**, and says *"I could not find this"*
-instead of guessing.
+**An AI assistant that answers students' questions about the METU Northern Cyprus Campus
+undergraduate regulation, shows the article it relied on, and says *"I could not find this"*
+instead of guessing.**
+
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/LLM-NVIDIA%20NIM-76B900?logo=nvidia&logoColor=white)
+![Chroma](https://img.shields.io/badge/Vector%20DB-Chroma-FF6B6B)
+![MCP](https://img.shields.io/badge/MCP-server-8A2BE2)
+![Answers correct](https://img.shields.io/badge/answers%20correct-24%2F24-success)
+![Citations verified](https://img.shields.io/badge/invented%20citations-0%2F28-success)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 > Unofficial student project. The binding text is the regulation itself.
 > Built as an application project for the YTU Startup House × NVIDIA AI Engineer Bootcamp.
+
+![The assistant answering a question, with the cited article opened underneath](docs/img/ui-answer.png)
 
 ## Why
 
@@ -73,28 +83,51 @@ Two decisions came out of this table: the embedding model (the alternative was h
 Turkish) and keeping both languages in the index (each single-language index loses accuracy for
 questions asked in the other language).
 
-<!-- AGENT_RESULTS -->
+**End to end** — the agent answers all 28 questions from a clean conversation; a model from a
+different family (`openai/gpt-oss-20b`) grades each answer against the expected content
+([per-question results](data/eval/agent_results.md)).
+
+| metric | first version | final |
+|---|---|---|
+| Answer correct | 17/24 | **24/24** |
+| Cited the expected article | 21/24 | **24/24** |
+| Refused an out-of-scope question | 3/4 | **4/4** |
+| Invented a citation | 0/28 | **0/28** |
+
+The first version's failures were not hallucinations — they were **incomplete answers**: correct,
+but missing a condition of the rule ("six withdrawals in total", omitting "one per semester").
+That is the failure mode the evaluation existed to find, and it is invisible if you only read a
+few answers by hand. The fix was an instruction to state every condition of the cited article;
+see [notes/04](notes/04-evaluation.md) for the full trail, including a change that fixed six
+questions and broke two others.
 
 ## How it works
 
-```
-question → agent loop ─┬─► search_regulations → Chroma (94 chunks: 47 articles × 2 languages)
-                       ├─► calculate_gpa       → deterministic Python
-                       └─► days_until          → deterministic Python
-                       ↓
-              final answer as JSON {answer, sources}
-                       ↓
-     validation: schema · citations were actually retrieved · no foreign script
-                       ↓          ↳ invalid → feed the error back, retry
-                    answer + the article it rests on
-```
+![Architecture](docs/img/architecture.svg)
 
 The agent loop is written directly rather than with a framework: call the model, run the tools it
 asks for, feed the results back, repeat until it answers — with a step limit, and a final
 tools-disabled call so partial work is not thrown away.
 
+Nothing the student reads is unvalidated: the answer is JSON, every cited article must exist in the
+ingested regulation **and** have been returned by the search in that conversation, and a failed
+check is fed back to the model as an error to correct rather than shown as a crash.
+
 [**docs/HOW-IT-WORKS.md**](docs/HOW-IT-WORKS.md) covers the design decisions, what each one cost,
 and the known limitations.
+
+**Cost and latency** — accuracy is not the only production metric
+([measurements](data/eval/performance.md)):
+
+| | |
+|---|---|
+| Median answer latency | **15 s** |
+| Tokens per question | **~4 550** |
+| Model calls per question | 1–3 |
+
+Most of it is the reasoning model thinking before it answers, plus the retrieved articles in the
+prompt. An out-of-scope question costs a third as much, because nothing is retrieved. A smaller
+model would be cheaper and faster — the next trade-off worth measuring.
 
 ## Security: retrieved text is data, not instructions
 

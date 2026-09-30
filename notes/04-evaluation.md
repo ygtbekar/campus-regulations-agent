@@ -65,14 +65,53 @@ Only the system prompt changed: be complete (state every condition of the cited 
 article even when the regulation defers the detail elsewhere, and never answer campus-life
 questions from memory.
 
-<!-- V2_RESULTS -->
+### v2: six fixed, two broken
+
+| id | v1 | v2 |
+|---|---|---|
+| q07, q08, q12, q16, q17 | partial (incomplete) | **correct** |
+| q22, q23, q24 | correct but uncited | **cited** |
+| q27 (student clubs) | answered from memory | **refused** |
+| q23 (double major) | correct | **wrong** — presented Article 10's definition as if it were the admission conditions |
+| q26 (dormitories) | refused cleanly | **wrong** — cited Articles 21 and 39 because they contain the word "yurt" in a list of fees |
+
+Both regressions came from the same over-correction: "cite the article" pushed the model to find
+*something* to cite, even when the regulation only mentions the topic in passing. A useful reminder
+that prompt changes are not local — they alter behaviour on questions you were not thinking about.
+
+### Final: separate "the regulation defers this" from "the regulation does not cover this"
+
+Two clauses were sharpened: when the regulation defers a detail, say that first and only then quote
+what it does say; and when the regulation does not govern the topic at all, refuse and cite nothing —
+never cite an article merely because it contains the word.
+
+| metric | v1 | final |
+|---|---|---|
+| Answer correct | 17/24 | **24/24** |
+| Answer correct or partial | 23/24 | 24/24 |
+| Cited the expected article | 21/24 | **24/24** |
+| Refused an out-of-scope question | 3/4 | **4/4** |
+| Invented a citation | 0/28 | **0/28** |
+
+One blemish remains, and it is worth stating rather than hiding: asked for a specific course's exam
+date (q28), the agent correctly says the regulation does not contain exam dates and points to the
+academic calendar — but cites Article 23 ("Attendance and examinations") while doing so. The answer
+is right; the citation is over-eager.
 
 ## What this says about the method
 
 - Counting correct answers alone would have been useless. The categories (`in_scope` / `partial` /
   `out_of_scope`) are what turned "71% correct" into three specific, fixable defects.
+- The main defect was **incompleteness, not hallucination** — answers that were true but dropped a
+  condition. Reading five answers by hand would not have revealed it; they all look fine.
+- Fixing six questions broke two. Without a regression set the second effect would have shipped
+  unnoticed.
 - An evaluation set is also a test of the person who wrote it: one of the 28 expected answers was
-  wrong, and only reading the disagreement revealed it.
-- The guardrail that blocks invented citations held: zero fabricated sources across both runs.
-  A validator that cannot fail is not proof of anything — but this one rejected q02's first attempt
-  during the v2 run, and the model corrected itself.
+  wrong, and only the disagreement revealed it.
+
+- The guardrail that blocks invented citations held: zero fabricated sources across all three runs.
+  A validator that never fires proves nothing — but this one did fire during the runs, and the model
+  corrected itself each time.
+
+Raw results per version: [v1](../data/eval/agent_results_v1.md) ·
+[v2](../data/eval/agent_results_v2.md) · [final](../data/eval/agent_results.md).

@@ -6,12 +6,12 @@
     "expected_articles": [
       30
     ],
-    "answer": "Evet, iki dönem üst üte genel not ortalamanız 2,00'ın altında kaldığı için sınamalı (probation) duruma düştünüz. METU NCC Lisans Öğretim ve Eğitim Yönetmeliği'nin MADDE 30'u şu şekilde düzenler:\n\n(1) Genel not ortalaması iki yarıyıl üst üste 2,00'ın altında olan öğrenciler Sınamalı (Probation) öğrenci olarak tanımlanır.\n(2) Sınamalı öğrenciler öncelikle FF, FD, NA veya U notu aldıkları dersleri tekrarlarlar; daha önce başarılı oldukları dersleri ise talepleri halinde tekrarlayabilirler.\n(3) Sınamalı öğrenciler, programın bir yarıyıldaki normal ders yükünü aşmama koşulu ile aşağıdaki uygulamalar temelinde ders alabilirler:\n    a) Genel not ortalaması 1,80’in altında olanlar daha önce almadıkları dersleri veya W notu aldıkları dersleri alamazlar.\n    b) Genel not ortalaması 1,80 – 1,99 arasında olanlar daha önce almadıkları en fazla üç dersi alabilirler.\n(4) Sınamalı öğrenciler için asgari ders yükü ile ilgili kural uygulanmaz.\n(5) Sınamalı statünün sona ermesi için genel not ortalamasının en az 2,00 olması gerekir.\n\nBu maddeler, sınamalı öğrenciye uygulanan koşulları, ders alma sınırlamalarını ve sınamalı durumdan çıkma şartını belirler.",
+    "answer": "Evet, iki dönem üst üte genel not ortalamanız 2,00'ın altında kaldığı için sınamalı (probation) öğrenci olarak tanımlanırsınız. METU NCC Lisans Öğretim ve Eğitim Yönetmeliği'nin MADDE 30'u bu durumu şu şekilde düzenler:\n\n(1) Genel not ortalaması iki yarıyıl üst üste 2,00'ın altında olan öğrenciler Sınamalı (Probation) öğrenci olarak tanımlanır.\n(2) Sınamalı öğrenciler öncelikle FF, FD, NA veya U notu aldıkları dersleri tekrarlarlar; daha önce başarılı oldukları dersleri ise talepleri halinde tekrarlayabilirler.\n(3) Sınamalı öğrenciler, programın bir yarıyıldaki normal ders yükünü aşmama koşulu ile aşağıdaki uygulamalar temelinde ders alabilirler: \n   a) Genel not ortalaması 1,80’in altında olanlar daha önce almadıkları dersleri veya W notu aldıkları dersleri alamazlar. \n   b) Genel not ortalaması 1,80 – 1,99 arasında olanlar daha önce almadıkları en fazla üç dersi alabilirler.\n(4) Sınamalı öğrenciler için asgari ders yükü ile ilgili kural uygulanmaz.\n(5) Sınamalı statünün sona ermesi için genel not ortalamasının en az 2,00 olması gerekir.\n\nBu maddeler, sınamalı durumun tanımı, ders tekrarı ve alma koşulları, ders yükü sınırlamaları ve sınamalıdan çıkma şartını kapsamaktadır.",
     "sources": [
       "MADDE 30"
     ],
     "verdict": "correct",
-    "reason": "Answer correctly confirms probation status and does not contradict expected content.",
+    "reason": "Answer confirms probation status and aligns with expected content.",
     "citation_ok": true
   },
   {
@@ -21,12 +21,12 @@
     "expected_articles": [
       7
     ],
-    "answer": "METU NCC Lisans Öğretim ve Eğitim Yönetmeliği'ne göre, yaz okulu açılabilmektedir; ancak yaz okulunda eğitim‑öğretime ilişkin esaslar Senato tarafından belirlenir. Yönetmeliğe göre hangi türlerin (zorunlu, seçmeli, tekrar, not yükseltme vb.) derslerin yaz okulunda alınabileceği hakkında bir hüküm bulunmamaktadır; bu detaylar Senato tarafından belirlenen esaslar ve akademik takvimde açıklanacaktır.",
+    "answer": "METU NCC Lisans Eğitimi ve Öğretim Yönetmeliği'ne göre, yaz okulu açılabilir ve yaz okulunda eğitim‑öğretime ilişkin esaslar Senato tarafından belirlenir (MADDE 7/2). Yaz okulunda verilecek dersler ise ilgili program koordinatörlükleri ve/veya ilgili akademik kurul başkanlığı tarafından belirlenerek ilgili akademik kurul tarafından karara bağlanır (MADDE 7/5). Yönetmeliğe yaz okulunda alınabilecek derslerin detaylı türleri (zorunlu, seçmeli vb.) doğrudan yer verilmemiştir; bu türler ve hangi derslerin açılacağı, yukarıdaki yetkili organların kararlarına bağlıdır. Dolayısıyla, yaz okulunda alabileceğiniz dersler, o döneme ait Senato’nun belirlediği esaslar ve program koordinatörlüğü/akademik kurul tarafından onaylanan ders listesine göre belirlenir.",
     "sources": [
       "MADDE 7"
     ],
-    "verdict": "partial",
-    "reason": "Answer covers main points but omits mention of program coordinators/academic council determining course types.",
+    "verdict": "correct",
+    "reason": "Answer accurately reflects the regulation’s provisions and notes that specific courses are not listed.",
     "citation_ok": true
   },
   {
@@ -36,12 +36,12 @@
     "expected_articles": [
       18
     ],
-    "answer": "METU NCC Lisans Öğretim Yönetmeliği'ne göre, bir dersin alınabileceği maksimum sayı, programın normal ders yüküne dayanır ve aşağıdaki koşullara göre artırılabilir:\n\n1. **Normal ders yükü**: Bir programın normal ders yükü, o programın müfredatında en fazla sayıda kredili dersin yer aldığı yarıyıldaki kredili ders sayısıdır (MADDE 18/1).\n\n2. **Not ortalamasına göre ek ders**:\n   - Genel not ortalaması (GNO) en az 2,00 olan öğrenciler için normal ders yüküne en fazla **bir** ders eklenebilir.\n   - GNO en az 2,50 olan öğrenciler için normal ders yüküne en fazla **iki** ders eklenebilir (MADDE 18/2).\n\n3. **Mezuniyet koşulunu sağlayabilecek öğrenciler**: Kayıtlı olduğu yarıyıl sonunda mezuniyet koşullarını sağlayabilecek öğrenciler, GNO koşulu aranmaksızın normal ders yüküne en fazla **iki** ders ekleyebilir; bu öğrenciler için asgari ders yükü koşulu da aranmaz (MADDE 18/4).\n\nBu nedenle, bir dersin alınabileceği maksimum sayı = normal ders yükü + (GNO durumuna göre 0, 1 veya 2) veya, mezuniyet koşulunu sağlayabilecekse +2 (GNO bağımsız). Kesin sayı, kendi programının normal ders yüküsüne ve kendi GNO durumuna göre hesaplanmalıdır.\n\nNot: Lisans programı öğrencilerinin bir yarıyıldaki asgari ders yükü kredili üç derstir; gerekçeli durumlarda bu yük akademik danışman ve program koordinatörlüğü/akademik kurul onayıyla azaltılabilir (MADDE 18/3).",
+    "answer": "METU NCC Lisans Derecesi Öğretim Yönetmeliği’nin MADDE 18’e göre, bir ders döneminde (yarıyıl) bir öğrenci alabileceği en fazla ders sayısı, programının ‘normal ders yükü’ ile belirlenir ve bu yük aşağıdaki koşullarla artırılabilir:\n\n1. **Normal ders yükü**: O programın müfredatında en fazla sayıda kredili dersin yer aldığı yarıyıldaki kredili ders sayısıdır. Bu, o programa ait en yoğun ders dönemindeki ders sayısını ifade eder.\n2. **Not ortalamasına dayalı artış**:\n   - Genel not ortalaması (GNO) en az 2,00 olan öğrenciler, normal ders yüküne **bir ders** ekleyebilir.\n   - GNO en az 2,50 olan öğrenciler, normal ders yüküne **iki ders** ekleyebilir.\n3. **Mezuniyet koşulu sağlayacak öğrenciler**: Kayıtlı oldukları yarıyıl sonunda mezuniyet koşullarını sağlayabilecek öğrenciler, GNO koşulu aranmaksızın normal ders yüküne **iki ders** ekleyebilir. Bu öğrenciler için asgari ders yükü koşulu (kredili üç ders) aranmaz.\n\nBu artışlar, programın normal ders yüküne eklenerek toplam maksimum ders sayısı elde edilir. Örneğin, bir programın normal ders yükü 5 ders ise:\n- GNO 2,00‑2,49 arasında bir öğrenci en fazla 5 + 1 = 6 ders alabilir.\n- GNO 2,50 ve üzeri bir öğrenci en fazla 5 + 2 = 7 ders alabilir.\n- Mezuniyet koşullarını sağlayacak herhangi bir GNO olan öğrenci en fazla 5 + 2 = 7 ders alabilir.\n\nNot: Lisans programı öğrencilerinin bir yarıyıldaki asgari ders yükü kredili üç derstir (YDO İngilizce Hazırlık Programından Güz yarıyılı sonunda başarılı olanlardan Bahar yarıyılında lisans programı birinci yarıyılına başlayan öğrenciler için ilgili Bahar yarıyılı hariç). Asgari yük, akademik danışman ve ilgili program koordinatörlüğü/akademik kurul başkanlığı onayıyla gerekçeli durumlarda azaltılabilir.\n\nBu bilgiler sadece MADDE 18’den elde edilmiştir; diğer maddeler veya akademik takvimdeki spesifik tarihler bu kapsamda yer almaz.",
     "sources": [
       "MADDE 18"
     ],
     "verdict": "correct",
-    "reason": "Answer includes the expected content and adds no contradictory information.",
+    "reason": "Answer includes all expected conditions and does not contradict them.",
     "citation_ok": true
   },
   {
@@ -51,12 +51,12 @@
     "expected_articles": [
       18
     ],
-    "answer": "METU NCC Lisans Öğretim Yönetmeliği'nin MADDE 18'e göre:\n- Bir programın normal ders yükü, o programın müfredatında en fazla sayıda kredili dersin yer aldığı yarıyıldaki kredili ders sayısıdır (MADDE 18/1).\n- Öğrencilerin bir yarıyıldaki ders yükü normal ders yükü ile sınırlıdır (MADDE 18/2).\n- Genel not ortalaması en az 2,00 olan öğrenciler için normal ders yüküne en fazla bir ders artırılabilir; genelde not ortalaması en az 2,50 olan öğrenciler için ise en fazla iki ders artırılabilir (MADDE 18/2a ve 2b).\n- Sizin genel not ortalamanız 2,60 olduğu için, bu kriteri sağladığınız için normal ders yükünüze en fazla iki ders ekleyebilirsiniz.\n\nEk şartlar veya sınırlar: \n- MADDE 18'de ders yükü artırımı için akademik danışman veya program koordinatörü onayı gerektirilmemiş; sadece yukarıdaki GPA tabanlı limitler belirtilmiştir.\n- Ders yükü azaltılması ise gerekçeli durumlarda akademik danışmanın ve ilgili program koordinatörlüğü/akademik kurul başkanlığının onayı gerektirir (MADDE 18/3).\n- Lisans programı öğrencilerinin bir yarıyıldaki asgari ders yükü kredili üç derstir (MADDE 18/3).\n- Kayıtlı olunan yarıyıl sonunda mezuniyet koşullarını sağlayabilecek öğrenciler, GPA koşulu aranmaksızın normal ders yüküne en fazla iki ders ekleyebilir ve bu durumda asgari ders yükü koşulu aranmaz (MADDE 18/4). Bu durum sizin için otomatik olarak geçerli değildir, mezuniyet koşullarını sağlayıp sağlamadığınız biliniyor değil.\\n\nSonuç: Genel not ortalamanız 2,60 olduğu için, normal ders yükünüze en fazla iki ders ekleyebilirsiniz.",
+    "answer": "MADDE 18/2/b'ye göre, genel not ortalamanız en az 2,50 olan öğrenciler için normal ders yüküne en fazla iki ders artırılabilir. Sizin genel ortalamanız 2,60 olduğu için, bir yarıyıldaki normal ders yükünüze en fazla iki ders ekleyebilirsiniz.",
     "sources": [
       "MADDE 18"
     ],
     "verdict": "correct",
-    "reason": "Answer correctly states you can add up to two courses and does not contradict the expected content.",
+    "reason": "Answer matches expected content and does not contradict it.",
     "citation_ok": true
   },
   {
@@ -66,12 +66,12 @@
     "expected_articles": [
       18
     ],
-    "answer": "Lisans programı öğrencileri için bir yarıyıldaki asgari ders yükü kredili üç derstir. Yani en az üç kredili ders almanız gerekir. Ancak YDO İngilizce Hazırlık Programından Güz yarıyılı sonunda başarılı olan ve Bahar yarıyılında lisans programı birinci yarıyılına başlayan öğrenciler için ilgili Bahar yarıyılı bu kural hariç tutulur. Ayrıca gerekçeli durumlarda bu yük, akademik danışmanın ve ilgili program koordinatörlüğü/akademik kurul başkanlığının onayıyla azaltılabilir.",
+    "answer": "Lisans programı öğrencileri için bir yarıyıldaki asgari ders yükü kredili üç derstir. Bu kuralın bazı istisnaları şunlardır:\n- YDO İngilizce Hazırlık Programından Güz yarıyılı sonunda başarılı olan ve Bahar yarıyılında lisans programı birinci yarıyılına başlayan öğrenciler için ilgili Bahar yarıyılı hariç tutulur.\n- Gerekçeli durumlarda bu yük, akademik danışmanın ve ilgili program koordinatörlüğü/akademik kurul başkanlığının onayıyla azaltılabilir.\n- Kayıtlı olunan yarıyıl sonunda mezuniyet koşullarını sağlayabilecek öğrenciler için asgari ders yükü koşulu aranmaz; bu öğrenciler normal ders yükünü genel not ortalama koşulu aranmaksızın en fazla iki ders artırabilir.\nBu hükümler METU NCC Lisans Öğretim Yönetmeliği’nin MADDE 18’inde yer alır.",
     "sources": [
       "MADDE 18"
     ],
     "verdict": "correct",
-    "reason": "Answer includes the required minimum of three credit courses and notes possible reduction with approval, without contradicting the regulation.",
+    "reason": "Answer includes the required minimum of three credit courses and notes that it can be reduced with approval, without contradicting the regulation.",
     "citation_ok": true
   },
   {
@@ -81,12 +81,12 @@
     "expected_articles": [
       30
     ],
-    "answer": "MADDE 30 kapsamında, genel not ortalaması 1,80'in altında olan sınamalı öğrenciler daha önce almadıkları dersleri veya W notu aldıkları dersleri alamazlar. Sınıf ortalamanız 1,70 olduğu için, daha önce almadığınız bir dersi alamazsınız. Sadece FF, FD, NA veya U notu aldığınız dersleri zorunlu olarak tekrarlamalısınız; daha önce başarılı olduğunuz dersleri ise talebiniz üzerine tekrarlayabilirsiniz. Ayrıca, programın bir yarıyıldaki normal ders yükünü aşmamalı ve asgari ders yükü kuralı sizin için uygulanmaz. Sınamalı statünüzden çıkmak için genel not ortalamanızın en az 2,00 olması gerekir.",
+    "answer": "MADDE 30 kapsamında, genel not ortalaması 1,80'in altında olan sınamalı öğrenciler daha önce almadıkları dersleri veya W notu aldıkları dersleri alamazlar. Senin genel ortalaman 1,70 olduğu için daha önce almadığı bir dersi alamazsın. Sınamalı öğrenciler öncelikle FF, FD, NA veya U notu aldıkları dersleri tekrarlarlar; daha önce başarılı oldukları dersleri ise talepleri halinde tekrarlayabilirler. Ayrıca, programın bir yarıyıldaki normal ders yükünü aşmamak koşulu ile ders alabilirler ve asgari ders yükü kuralı onlara uygulanmaz. Sınamalı statünün sona ermesi için genel not ortalamasının en az 2,00 olması gerekir.",
     "sources": [
       "MADDE 30"
     ],
     "verdict": "correct",
-    "reason": "The answer correctly states that a student with a GPA below 1.80 cannot take a new course they haven't taken before, matching the expected content, and it does not contradict that statement.",
+    "reason": "Answer correctly states that a student with GPA below 1.80 cannot take a new course and does not contradict the expected content.",
     "citation_ok": true
   },
   {
@@ -96,12 +96,12 @@
     "expected_articles": [
       22
     ],
-    "answer": "METU NCC Lisans Öğretim Yönetmeliği’nin MADDE 22’ye göre, bir dersten çekilme işlemi sadece yarıyılın onuncu haftası içinde yapılabilir. Bu işlem sırasında aşağıdaki koşullar ve sınırlamalar geçerlidir:\n- a) Dersten çekilme işlemi, yarıyılın onuncu haftası içinde yapılır.\n- b) Dersi veren öğretim elemanına bilgi iletilir.\n- c) Bir yarıyıl içinde en çok bir dersten çekilme işlemi yapılabilir.\n- ç) Öğrenim boyunca en çok altı dersten çekilme işlemi yapılabilir.\n- d) Müfredatın ilk iki yarıyılındaki derslerden çekilme işlemi yapılamaz.\n- e) Tekrarlanan, daha önce çekilme işlemi yapılan, NI statüsünde alınan veya kredisiz derslerden çekilme işlemi yapılamaz.\n- f) Bir yarıyılda asgari ders yükü (kredili üç ders) veya altında ders alan öğrenciler dersten çekilme işlemi yapamazlar.\nBu maddelerde belirtilen tüm koşullar sağlanmalı; aksi takdirde çekilme işlemi yapılamaz.",
+    "answer": "MADDE 22'ye göre, bir dersten çekilme işlemi sadece yarıyılın onuncu haftası içinde yapılabilir. İşlemi yaparken dersi veren öğretim elemanına bilgi iletilmelidir. Bir yarıyıl içinde en fazla bir dersten, öğrenim süresince toplamda en fazla altı dersten çekilme yapılabilir. Müfredatın ilk iki yarıyılındaki derslerden, tekrarlanan derslerden, daha önce çekilme işlemi yapılan derslerden, NI statüsünde alınan derslerden veya kredisiz derslerden çekilme yapılamaz. Ayrıca, bir yarıyılda asgari ders yükü veya altında ders alan öğrenciler dersten çekilme işlemi yapamazlar.",
     "sources": [
       "MADDE 22"
     ],
     "verdict": "correct",
-    "reason": "It states withdrawal is allowed within the 10th week and the instructor must be informed, matching the expected content.",
+    "reason": "Includes the required time frame and instructor notification without contradicting the expected content.",
     "citation_ok": true
   },
   {
@@ -111,12 +111,12 @@
     "expected_articles": [
       22
     ],
-    "answer": "Öğrenim süreniz boyunca toplam **altı (6) dersten** çekilebilirsiniz. Bu sınır ve ilgili diğer koşullar METU NCC Lisans Öğretim ve Eğitim Yönetmeliği’nin MADDE 22’ye göre şu şekildedir:\n\na) Dersten çekilme işlemi, yarıyılın onuncu haftası içinde yapılır.\nb) Dersi veren öğretim elemanına bilgi iletilir.\nc) Bir yarıyıl içinde en çok **bir** dersten çekilme işlemi yapılabilir.\nç) Öğrenim boyunca en çok **altı** dersten çekilme işlemi yapılabilir.\nd) Müfredatın ilk iki yarıyılındaki derslerden çekilme işlemi yapılamaz.\ne) Tekrarlanan, daha önce çekilme işlemi yapılan, NI statüsünde alınan veya kredisiz derslerden çekilme işlemi yapılamaz.\nf) Bir yarıyılda asgari ders yükü veya altında ders alan öğrenciler dersten çekilme işlemi yapamazlar.\n\nBu maddeler, toplam çekilebilecek ders sayısını ve çekilme işlemi için geçerli olan tüm şartları, sınırları, süreleri ve istisnaları belirler.\n\nKaynak: MADDE 22",
+    "answer": "Öğrenim boyunca toplam en çok altı (6) dersten çekilebilir. Bu sınırın yanınta MADDE 22’ye göre çekilme işlemi için şu koşullar sağlanmalıdır:\n- (a) Çekilme işlemi yarıyılın onuncu haftası içinde yapılır.\n- (b) Dersi veren öğretim elemanına bilgi iletilir.\n- (c) Bir yarıyıl içinde en çok bir dersten çekilme işlemi yapılabilir.\n- (ç) Öğrenim boyunca en çok altı dersten çekilme işlemi yapılabilir.\n- (d) Müfredatın ilk iki yarıyılındaki derslerden çekilme işlemi yapılamaz.\n- (e) Tekrarlanan, daha önce çekilme işlemi yapılan, NI statüsünde alınan veya kredisiz derslerden çekilme işlemi yapılamaz.\n- (f) Bir yarıyılda asgari ders yükü veya altında ders alan öğrenciler dersten çekilme işlemi yapamazlar.",
     "sources": [
       "MADDE 22"
     ],
     "verdict": "correct",
-    "reason": "Answer matches the expected content and does not add contradictions.",
+    "reason": "Answer includes the expected limits (max six overall, max one per semester) and does not contradict them.",
     "citation_ok": true
   },
   {
@@ -126,12 +126,12 @@
     "expected_articles": [
       22
     ],
-    "answer": "METU NCC Lisans Öğretim Yönetmeliği’nin MADDE 22’ye göre, ders çekilme işlemi müfredatın ilk iki yarıyılındaki derslerden yapılamaz. Birinci sınıf öğrencisi olarak, öğreniminizin ilk iki yarıyılında (genellikle birinci ve ikinci dönemsen) bulunduğunuz için bu dönem aldığınız bir dersten çekilemezsiniz. Ayrıca, çekilme işlemi sadece yarıyılın onuncu haftası içinde yapılabilir, bir yarıyılda en fazla bir dersten, öğrenim boyunca en fazla altı dersten çekilme yapılabilir ve tekrarlanan, daha önce çekilme yapılmış, NI statüsünde alınan veya kredisiz derslerden çekilme yapılamaz; ayrıca asgari ders yükü veya altında ders alan öğrenciler de çekilemez. Ancak ilk iki yarıyıl kısıtlaması bu durumda öncelikli olarak uygulanır, dolayısıyla bu dönem bir dersten çekilemezsiniz.",
+    "answer": "METU NCC Lisans Öğretim Yönetmeliği'ne göre, dersden çekilme işlemi müfredatın ilk iki yarıyılındaki derslerden yapılamaz (MADDE 22/1-d). Birinci sınıf öğrencisi olarak hâlâ müfredatın ilk iki yarıyılındaysanız, bu dönem aldığınız bir dersten çekilemezsiniz. Ayrıca, dersden çekilme işlemi yalnızca yarıyılın onuncu haftası içinde yapılabilir, öğretim elemanına bilgi verilmelidir, bir yarıyıl içinde en fazla bir dersten, öğrenim boyunca en fazla altı dersten çekilme yapılabilir ve tekrarlanan, daha önce çekilme yapılan, NI statüsünde alınan veya kredisiz derslerden çekilme yapılamaz; ayrıca bir yarıyılda asgari ders yükü veya altında ders alan öğrenciler de çekilemez. Ancak ilk iki yarıyıl kısıtlaması öncelikli olarak uygulanır ve bu durumda çekilme izni verilemez.",
     "sources": [
       "MADDE 22"
     ],
     "verdict": "correct",
-    "reason": "Answer correctly states that withdrawal is not allowed in the first two semesters and does not contradict the expected content.",
+    "reason": "Answer correctly states that withdrawal is not allowed in the first two semesters.",
     "citation_ok": true
   },
   {
@@ -141,13 +141,13 @@
     "expected_articles": [
       24
     ],
-    "answer": "NA notu, dersin teorik ve uygulama saatlerine devam etmemek, dersle ilgili yükümlüllükleri yerine getirmediği için yarıyıl sonu sınavına girmeye hak kazanamamak veya yarıyıl ara sınavları ve yarıyıl sonu sınavının hiçbirine katılmamak gibi nedenlerden dolayı verilir. Not ortalaması hesaplamalarında NA notu FF notu gibi iş görür; yani katsayısı 0,00 olduğu için alınan krediden kalite puanı elde edilmez ve not ortalamasını düşürür.",
+    "answer": "NA notu, dersin teorik ve uygulama saatlerine devam etmemek, dersle ilgili yükümlülleri yerine getirmek suretiyle yarıyıl sonu sınavına girme hakkı kazanamamak veya yarıyıl ara sınavı ve yarıyıl sonu sınavının hiçbirine katılmamak gibi nedenlerden dolayı verilen başarısız bir harf notudur. Not ortalaması hesaplamalarında NA notu FF notu gibi iş görür; yani katsayısı 0,00 olduğu için alındığı dersin kredisi payda olarak sayılırken kvalite puanı katkısı sıfır olur. Bu durum, not ortalamasını FF notu almış gibi düşürür.",
     "sources": [
       "MADDE 24",
       "MADDE 27"
     ],
     "verdict": "correct",
-    "reason": "Answer matches expected content and adds no contradictions.",
+    "reason": "Answer matches expected content and does not add contradictory information.",
     "citation_ok": true
   },
   {
@@ -157,12 +157,12 @@
     "expected_articles": [
       24
     ],
-    "answer": "AA notunun katsayısı 4,00'tur ve bu not 90-100 puan aralığına karşılık gelir.",
+    "answer": "AA notunun katsayısı 4,00'tur ve 90-100 puan aralığına karşılık gelir.",
     "sources": [
       "MADDE 24"
     ],
     "verdict": "correct",
-    "reason": "Matches expected content.",
+    "reason": "Answer matches expected content exactly.",
     "citation_ok": true
   },
   {
@@ -172,12 +172,12 @@
     "expected_articles": [
       31
     ],
-    "answer": "Mezun olabilmek için genel not ortalamanız en az 2,00 olmalıdır. Bunun yanı sıra METU NCC Lisans Öğretim ve Eğitim Yönetmeliği (2026) MADDE 31'e göre mezuniyet için şu ek koşulların da sağlanması gerekir: a) Müfredatta yer alan tüm dersler en az DD veya S harf notu ile tamamlanmalıdır; b) Genel not ortalaması en az 2,00 olmalıdır; c) Müfredatın toplam kredisinin en az yarısının ODTÜ'de alınmış olması gerekir; ç) Yurt dışındaki anlaşmalı yükseköğretim kurumları ile yürütülen uluslararası ortak lisans programları ve değişim programları hariç olmak üzere kayıtlı olunan son iki yarıyıl ODTÜ'de geçirilmelidir.",
+    "answer": "Mezun olabilmek için genel not ortalamanız en az 2,00 olmalıdır. Bunun yanı sıra METU NCC Lisans Derecesi Mezuniyet Koşulları (MADDE 31) şu ek koşulları da gerektirir: a) Müfredatta yer alan tüm dersler en az DD veya S harf notu ile tamamlanmalıdır; b) Genel not ortalaması en az 2,00 olmalıdır; c) Müfredatın toplam kredisinin en az yarısının ODTÜ'de alınmış olması gerekir; ç) Kayıtlı olduğunuz son iki yarıyıl ODTÜ'de geçirilmelidir (yurt dışı anlaşmalı değişim ve uluslararası ortak lisans programları hariç). Bu tüm koşulları sağladığınızda mezun olabilirsiniz.",
     "sources": [
       "MADDE 31"
     ],
     "verdict": "correct",
-    "reason": "Answer includes the required GPA and course grade conditions without contradicting the expected content.",
+    "reason": "Answer includes the required GPA and course grade conditions and does not contradict the expected content.",
     "citation_ok": true
   },
   {
@@ -187,12 +187,12 @@
     "expected_articles": [
       23
     ],
-    "answer": "Evet, derslere devam zorunludur. METU NCC Lisans Öğretim Yönetmeliği'nin MADDE 23'e göre:\n- Öğrencilerin derslere, uygulamalara, sınavlara ve öğretim elemanının gerekli gördüğü diğer akademik çalışmalara katılmaları zorunludur (MADDE 23/1).\n- Devam durumu öğretim elemanı tarafından izlenir (MADDE 23/2).\n- Devam durumu, ara sınav ve yarıyıl sonu sınavına katılma hakkı ve bu sınavların yanı sıra ödev, uygulama gibi çalışmaların yarıyıl harf notuna katkısıyla ilgili koşulları dersi veren öğretim elemanı belirler ve bu koşullar yarıyıl başında ders izlencesinde açıklanır (MADDE 23/3).\n- Her derste en az bir yarıyıl ara sınavı ve bir yarıyıl sonu sınavı yapılır; ara sınav ve/veya yarıyıl sonu sınavı gerektirmeyen dersler ise ilgili program koordinatörü tarafından belirlenip ÖİM'ye bildirilir (MADDE 23/4).\n- Öğrenciler, dersedeki başarı durumlarını, dersten çekilme tarihinden önce öğretim elemanı tarafından bilgilendirilir (MADDE 23/5).\nBu maddeler, derslere devamın sadece formal bir gereklilik olmadığını, aynı zamanda sınavlara girme hakkı ve not üzerindeki etkisiyle doğrudan ilişkili olduğunu gösterir.",
+    "answer": "Evet, derslere devam etmek zorunludur. METU NCC Lisans Öğretim Yönetmeliği MADDE 23/1'e göre, öğrencilerin derslere, uygulamalara, sınavlara ve öğretim elemanlarının gerekli gördüğü diğer akademik çalışmalara katılmaları zorunludur. Devam durumu öğretim elemanı tarafından izlenir ve ara sınav ve yarıyıl sonu sınavına katılma hakkı ve not katkısı, dersin öğretim elemanı tarafından belirlenerek yarıyıl başında öğrencilere açıklanır. Bu yüzden spesifik devam yüzdesi veya eksik hakki gibi detaylar ilgili dersin öğretim elemanı tarafından belirlenir ve ders izlencesinde açıklanır.",
     "sources": [
       "MADDE 23"
     ],
     "verdict": "correct",
-    "reason": "Answer confirms mandatory attendance and cites the regulation.",
+    "reason": "Answer confirms mandatory attendance and aligns with expected content.",
     "citation_ok": true
   },
   {
@@ -202,12 +202,12 @@
     "expected_articles": [
       26
     ],
-    "answer": "FF, FD, NA, U veya W harf notu aldığınız dersler (NI statüsü olmayanlar) zorunlu olarak tekrar almanız gerekir. DD ve üzeri notlar (DD, DC, CB, BB, BA, AA) ile aldığımız dersler zorunlu değildir; isterseniz dersin ilk alınışını izleyen dört yarıyıl içinde ve lisans eğitimi boyunca en fazla 6 kez tekrar edebilirsiniz.",
+    "answer": "METU NCC Lisans Öğretim Yönetmeliği'ne göre, FF, FD, NA, U veya W harf notu aldığımız dersler (NI statüsünde olanlar hariç) zorunlu olarak tekrarlanmalıdır. DD ve üzeri notlar zorunlu tekrarlama gerektirmez; ancak istenirse dört yarıyıl içinde ve lisans eğitimi boyunca en fazla 6 kez tekrarlanabilir.",
     "sources": [
       "MADDE 26"
     ],
     "verdict": "correct",
-    "reason": "It correctly states that courses with FF, FD, NA, U, or W grades (excluding NI status) must be retaken, and the additional information does not contradict the expected content.",
+    "reason": "It states the required retakes for FF, FD, NA, U, W (excluding NI) and adds non‑contradictory extra details.",
     "citation_ok": true
   },
   {
@@ -217,12 +217,12 @@
     "expected_articles": [
       26
     ],
-    "answer": "Evet, geçtiğiniz bir dersi not yükseltmek için tekrar alabilirsiniz. METU NCC Lisans Öğretim Yönetmeliği’nin MADDE 26’ya göre:\n- DD ve üzeri not alınan dersler, dersin ilk alınışını izleyen dört yarıyıl içinde tekrarlanabilir.\n- Lisans eğitimi boyunca en fazla 6 kez ders tekrarı yapabilirsiniz.\n- Tekrarlanan derste önceki not ne olursa olsun, alınan son not geçerlidir (yani yeni not eski notun yerini alır).\nBu kural, Sınamalı (Probation) durumundaki öğrenciler ve mezuniyet için bütün derslerden geçer not almış ancak gereken not ortalamasını sağlayamamış öğrenciler için uygulanmaz; bu gruplar için farklı düzenlemeler mevcuttur.\nSeçmeli derslerin tekrarlanması gerektiğinde, müfredat çerçevesinde ve aynı kategori/türde başka bir seçmeli ders alınabilir (MADDE 26/2).",
+    "answer": "Evet, geçtiğiniz bir dersi not yükseltmek için tekrar alabilirsiniz. METU NCC Lisans Öğretim Yönetmeliği’nin MADDE 26’ya göre:\n- DD ve üzeri not alınan dersler, dersin ilk alınışını izleyen dört yarıyıl içinde tekrarlanabilir.\n- Lisans eğitimi boyunca en fazla 6 kez ders tekrarı yapabilirsiniz.\n- Bu sınırlama (dört yarıyıl ve toplam 6 kez) Sınamalı (probation) durumundaki öğrenciler ve mezuniyet için bütün derslerden geçer not almış ancak gereken not ortalamasını sağlayamamış öğrenciler için uygulanmaz; bu gruplar için tekrar hakkı farklı değerlendirilebilir.\n- Tekrarlanan derste, önceki not ne olursa olsun alınan son not geçerli hale gelir (MADDE 26/4).\nBu koşulları sağladığınız sürece, notunuzu yükseltmek için dersi tekrar alabilirsiniz.",
     "sources": [
       "MADDE 26"
     ],
     "verdict": "correct",
-    "reason": "Answer includes all expected points and adds no contradictory information.",
+    "reason": "Answer includes all required points and does not contradict the expected content.",
     "citation_ok": true
   },
   {
@@ -232,12 +232,13 @@
     "expected_articles": [
       28
     ],
-    "answer": "METU NCC Lisans Derecesi Öğretim ve Eğitim Yönetmeliği'ne göre, şeref veya yüksek şeref öğrenci olabilmek için aşağıdaki şartlar sağlanmalıdır:\n\n1. Genel not ortalamanız ve ilgili yarıyıl not ortalamanız en az 2,00 olmalıdır.\n2. İlgili yarıyılda FF, FD, NA veya U notu almayınız.\n3. Azami eğitim-öğretim süresi içinde olup, ilgili yarıyılda en az üç adet kredili ders almış olmanız gerekir.\n4. Bu koşulları sağlayan öğrenciler, ilgili yarıyıl not ortalamalarına göre şu şekilde tanımlanır:\n   - Yarıyıl not ortalaması 3,00 – 3,49 arasında olanlar → Şeref (Honor) öğrencisi\n   - Yarıyıl not ortalaması 3,50 – 4,00 arasında olanlar → Yüksek Şeref (High Honor) öğrencisi\n\nNot: Azami eğitim-öğretim süresi dışında olan öğrenciler için bu tanımlar uygulanmaz; bu öğrenciler yarıyıl not ortalaması 2,00–2,99 veya genel not ortalaması en az 2,00 ise Başarılı (Satisfactory) olarak sayılır.\n\nKaynak: MADDE 28.",
+    "answer": "METU NCC Lisans Öğretim ve Eğitim Yönetmeliği'ne göre şeref ve yüksek şeref öğrenci durumları iki şekilde tanımlanır:\n\n1. Yarıyıl bazlı şeref/yüksek şeref (MADDE 28):\n   - Öğrencinin ilgili yarıyılında genel not ortalaması ve yarıyıl not ortalaması en az 2,00 olmalı.\n   - İlgili yarıyılda FF, FD, NA veya U notu alınmamalı.\n   - Azami eğitim öğretim süresi içinde olmak ve ilgili yarıyılda en az üç adet kredili ders almış olmalı.\n   - Bu koşulları sağlayan öğrencilerden:\n     * Yarıyıl not ortalaması 3,00 – 3,49 arasında olanlar **Şeref (Honor)** öğrencisi olarak tanımlanır.\n     * Yarıyıl not ortalaması 3,50 – 4,00 arasında olanlar **Yüksek Şeref (High Honor)** öğrencisi olarak tanımlanır.\n\n2. Mezuniyet bazlı şeref/yüksek şeref (MADDE 34):\n   - Lisans programından mezun olmak için genel not ortalaması 3,00 – 3,49 olanlar **Şeref** mezunu,\n   - 3,50 veya daha yüksek genel not ortalaması olanlar **Yüksek Şeref** mezunu olarak tanımlanır.\n\nYarıyıl bazlı şeref/yüksek şeref olmak için istediğiniz durum (şeref veya yüksek şeref) için ilgili yarıyıl not ortalamanız yukarıdaki aralıkta olmalı ve diğer koşullar (genel not ortalaması ≥2,00,FF/FD/NA/U yok, en az üç kredili ders) sağlanmalıdır.",
     "sources": [
-      "MADDE 28"
+      "MADDE 28",
+      "MADDE 34"
     ],
     "verdict": "correct",
-    "reason": "Answer matches all expected criteria and does not contradict the regulation.",
+    "reason": "The answer includes all expected criteria and does not contradict them.",
     "citation_ok": true
   },
   {
@@ -247,12 +248,12 @@
     "expected_articles": [
       40
     ],
-    "answer": "METU NCC Lisans Derecesi Öğretim ve Eğitim Yönetmeliği'ne göre, öğrenciler sağlık, askerlik, yurt içi veya yurt dışı yükseköğretim kurumlarında eğitim, akademik (müfredat gereği alınması gereken zorunlu dersin ilgili yarıyılda açılmaması), maddi ve ailevi nedenlerle, ilgili akademik kurul kararıyla her defasında iki yarıyılı aşmamak koşulu ile en fazla dört yarıyıl süreyle izinli sayılabilirler. Yani, toplam olarak en fazla dört yarıyıl (iki yıl) izin alabilirsiniz; her izin başvurusu ise en fazla iki yarıyıl süresiyle sınırlıdır. Dört yarıyıldan daha uzun süreli izinler için sadece rahatsızlığı ve tedavi sürecinin devam etmesi nedeniyle izin talebinde bulunan öğrenciler ile hükümlü öğrenciler için değerlendirme Üniversitesi Yönetim Kurulu'na bırakılmıştır.",
+    "answer": "METU NCC Lisans Derecesi Öğretim ve Eğitim Yönetmeliği'ne göre, öğrenciler sağlık, askerlik, yurt içi veya yurt dışı yükseköğretim kurumlarında eğitim, akademik (zorunlu dersin ilgili yarıyılda açılmaması), maddi ve ailevi nedenlerle, ilgili akademik kurul kararıyla her defasında iki yarıyılı aşmamak koşulu ile en fazla dört yarıyıl süreyle izinli sayılabilirler. Yani toplam olarak en fazla dört (4) yarıyıl izin alabilirsiniz, ancak her izin başvurusu en fazla iki (2) yarıyıl süresini geçemez. Dört yarıyılından daha uzun süreli izinler için sadece rahatsızlığının ve tedavisinin devam etmesi nedeniyle izin talebinde bulunan öğrenciler ile hükümlü öğrenciler için mazeretin değerlendirilmesi Üniversite Yönetim Kurulu'na aittir.",
     "sources": [
       "MADDE 40"
     ],
     "verdict": "correct",
-    "reason": "Answer matches expected limits and conditions, adding no contradictions.",
+    "reason": "Answer matches expected content and adds no contradictions.",
     "citation_ok": true
   },
   {
@@ -262,12 +263,12 @@
     "expected_articles": [
       35
     ],
-    "answer": "Akademik danışmanın görevleri şunlardır:\n- Program koordinatörlüğü, lisans programına kayıtlı her öğrenciye tam zamanlı öğretim elemanları arasından bir akademik danışman atar.\n- Akademik danışman, danışmanlığını yaptığı her öğrenci ile dönemde en az bir kere görüşür.\n- Öğrenciyi her yarıyılda alacağı derslerin seçiminde bilgilendirir ve yönlendirir.\n- Öğrenciyi Üniversite yaşamına uyum, mesleki gelişim ve kariyer konularında bilgilendirir ve yönlendirir.\n- İlgili Akademik Kurullar tarafından belirlenen akademik değerlendirme gerektiren durumlarda öğrenci ile görüşerek gerekli değerlendirme ve yönlendirmeleri yapar ve kayıt onayı verir.",
+    "answer": "Akademik danışmanın görevleri, METU NCC Lisans Eğitim Öğretim Yönetmeliği’nin MADDE 35’te şu şekilde belirtilmiştir:\n\n(1) Program koordinatörlükleri, lisans programına kaydolan her öğrenciye tam zamanlı öğretim elemanları arasından bir akademik danışman atar.\n\n(2) Akademik danışmanın sorumlulukları:\n   a) Danışmanlığını yaptığı her öğrenci ile dönemde en az bir kere görüşür.\n   b) Öğrenciyi her yarıyılda alacağı derslerin seçiminde bilgilendirir ve yönlendirir.\n   c) Öğrenciyi Üniversite yaşamına uyum, mesleki gelişim ve kariyer konularında bilgilendirir ve yönlendirir.\n   d) İlgili Akademik Kurullar tarafından belirlenen akademik değerlendirme gerektiren durumlarda öğrenci ile görüşerek gerekli değerlendirme ve yönlendirmeleri yapar ve kayıt onayı verir.\n\nBu maddede belirtilen şartlar ve koşullar: danışman ataması program koordinatörlüğü tarafından yapılır; her dönemde en az bir kez zorunlu görüşme; her yarıyılda ders seçimi konusunda bilgi ve yönlendirme vermek; üniversiteye uyum, mesleki gelişim ve kariyer konularında destek olmak; ayrıca ilgili Akademik Kurullar tarafından akademik değerlendirme gerektiği belirlenen durumlarda danışman öğrenciyle görüşerek değerlendirme yapar ve yönlendirme yapar ve bu sürecin sonunda kayıt onayı verir.",
     "sources": [
       "MADDE 35"
     ],
     "verdict": "correct",
-    "reason": "Answer covers all expected points and does not contradict the regulation.",
+    "reason": "Answer includes all expected points and adds no contradictory information.",
     "citation_ok": true
   },
   {
@@ -277,12 +278,12 @@
     "expected_articles": [
       41
     ],
-    "answer": "MADDE 41 kapsamında, öğrenci istediği zaman kayıtlarını ODTÜ KKK Intranet sistemi üzerinden sildirebilir. Ancak, ön lisans diploması alarak veya mezuniyet koşullarını sağlamadan kayıtlı oldukları programdan kayıt sildiren öğrenciler, Üniversitedeki tüm öğrencilik haklarını kaybeder ve öğrenimlerini tamamlamak üzere kayıt sildirdikleri programa tekrar kayıt yapamazlar. Yani, üniversiteden kaydınızı sildirirseniz aynı programa tekrar kayıt olarak eğitim-öğretiminizi devam ettiremezsiniz; kayıt sildikten sonra o programa yeniden kayıt hakkınız yoktur.",
+    "answer": "METU NCC Lisans Öğretimi ve Eğitim Yönetmeliği'nin MADDE 41'e göre, öğrenciler istedikleri takdirde ODTÜ KKK Intranet sistemi üzerinden kayıtlarını sildirebilirler. Ancak, ön lisans diploması alarak veya mezuniyet koşullarını sağlamadan kayıtlı oldukları programdan kayıt sildiren öğrenciler, Üniversitedeki tüm öğrencilik haklarını kaybeder ve kayıt sildirdikleri programa tekrar kayıt yaparak öğrenimlerini tamamlayamazlar. Yani, kayıt silme işleminizi 'ön lisans diploması alarak' veya 'mezuniyet koşullarını sağlamadan' yaparsanız, aynı programa tekrar kayıt olmanız ve o program üzerinden mezun olmanız mümkün değildir. Yönetmelik, kayıt silmenin diğer nedenlerle (örneğin mezuniyet koşullarını sağlayarak) gerçekleşmesi durumunda tekrar kayıt konusunda bir hüküm içermez; bu durumda özel bir cevap yönetmeliğe dayanarak verilemez.",
     "sources": [
       "MADDE 41"
     ],
     "verdict": "correct",
-    "reason": "Answer correctly states that deleting registration without meeting graduation conditions results in loss of all student rights and prohibits re‑registration to the same program.",
+    "reason": "Answer matches the expected content and does not contradict it.",
     "citation_ok": true
   },
   {
@@ -292,7 +293,7 @@
     "expected_articles": [
       7
     ],
-    "answer": "METU NCC Lisans Öğretim ve Eğitim Yönetmeliği'ne göre, bir eğitim öğretim yılı, yarıyıl sonu sınav süreleri dahil olmak üzere, her biri en az 16 haftalık iki yarıyıldan oluşur. Bu yüzden bir eğitim öğretim yılı en az 32 hafta sürer. Kesin hafta sayısı ve tarihleri akademik takvim tarafından belirlenir.",
+    "answer": "METU NCC Lisans Eğitim ve Öğretim Yönetmeliği'ne göre, bir eğitim öğretim yılı, her biri en az 16 haftalık iki yarıyıldan oluşur (MADDE 7/1). Bu 16 haftalık dönemler yarıyıl sonu sınav sürelerini de içerir. Dolayısıyla bir eğitim öğretim yılının en az 32 hafta sürmesi gerekir. Yönetmelikte yarıyıl veya eğitim öğretim yılı için bir üst sınır belirtilmemiştir; sadece 'en az 16 haftalık' koşulu uygulanır.",
     "sources": [
       "MADDE 7"
     ],
@@ -307,12 +308,12 @@
     "expected_articles": [
       21
     ],
-    "answer": "Ders ekleme‑bırakma işlemi, akademik takvimde ilan edilen ders ekleme bırakma tarihlerinde yapılabilir. Yarıyıl kaydını tamamlamış öğrenciler bu tarihlerde ders ekleyebilir, bırakabilir veya grup değiştirebilir. Lisans programına ilk kez kayıt olan öğrenciler de akademik takvimde belirtilen ders ekleme bırakma haftasında kayıt yapabilir. Kayıt tarihlerini geçerek kayıt yaptırmak isteyen öğrenciler, ilgili program koordinatörlüğüne/akademik kurul başkanlığına gerekçelerini bildirerek ve belgeleyerek, o yarıyılın ders ekleme bırakma süresi bitimine kadar başvuru yapabilir.",
+    "answer": "Ders ekleme‑bırakma işlemi, akademik takvimde ilan edilen ders ekleme bırakma tarihlerinde yapılabilir. Yönetmelikte kesin tarihler verilmemiş; sadece ‘akademik takvimde belirtilen ders ekleme bırakma tarihlerinde’ ifadesi kullanılmıştır (MADDE 21/6). Ayrıca, lisans programına ilk kez kayıt yapan öğrenciler bu hafta içinde de kayıt yaptırabilir (MADDE 21/1) ve kayıt yapamayan öğrenciler, ilgili program koordinatörlüğüne en geç ders ekleme bırakma süresi bitimine kadar başvuru yapabilir (MADDE 21/7).",
     "sources": [
       "MADDE 21"
     ],
     "verdict": "correct",
-    "reason": "Answer includes the expected information and does not contradict it.",
+    "reason": "Answer matches expected content and does not contradict it.",
     "citation_ok": true
   },
   {
@@ -322,7 +323,7 @@
     "expected_articles": [
       32
     ],
-    "answer": "METU NCC Lisans Eğitim Öğretim Yönetmeliği'ne göre, bütünleme sınavlarına ilişkin esaslar Senato tarafından belirlenir (MADDE 32/1). Yönetmelikte bütünleme sınavı hakkı, koşulları, başvuru süreçleri veya diğer detaylar yer almaz; bu detaylar Senato tarafından düzenlenir.",
+    "answer": "METU NCC Lisans Eğitim Öğretim Yönetmeliği'nde bütünleme sınavı hakkı ve kurallarıyla ilgili spesifik detaylar (şartlar, sınırlar, tarihler, onaylar, istisnalar vb.) yönetmelikte bulunmamaktadır. Yönetmelik, bütünleme sınavlarına ilişkin esasların Senato tarafından belirleneceğini sadece belirtiyor.",
     "sources": [
       "MADDE 32"
     ],
@@ -337,12 +338,12 @@
     "expected_articles": [
       10
     ],
-    "answer": "METU NCC Lisans‑Üniversite Eğitimi ve Öğretim Yönetmeliği'ne göre, çift anadal programına başvuru koşulları MADDE 10'da şu şekilde belirtilmiştir:\n\n- ODTÜ'de bir lisans programına kayıtlı olan öğrenciler, bu lisans programına ek olarak ODTÜ'de başka bir lisans programına da eş zamanlı kayıt yaptırabilir.\n- Bu ikinci lisans programına \"Çift Anadal Lisans Programı\" denir.\n- Çift anadal programını tamamlayan öğrencilere, kayıtlı oldukları lisans programı diplomasına ek olarak \"Çift Anadal Lisans Diploması\" verilir.\n- Çift anadal programlarına ilişkin esaslar (başvuru procédürleri, not ortalaması veya ders yükü sınırları, başvuru tarihleri vb.) Senato tarafından belirlenir.\n\nYönetmelikte, çift anadal programa başvuruda bulunmak için gereken minimum not ortalaması, alınabilecek maksimum kredi sayısı, başvuru tarihleri veya gerekli belgeler gibi detaylar yer almadığı için, bu konulardaki spesifik koşullar Senatın belirlediği esaslar içinde bulunmalıdır.",
+    "answer": "METU NCC Undergraduate Education Regulation (2026) çift anadal programına ilişkin spesifik başvuru koşullarını (örneğin not ortalaması sınırı, kredi limiti, başvuru tarihleri, gerekli belgeler vb.) doğrudan sağlamaz. Sadece MADDE 10 çerçevesinde, bir lisans programına kayıtlı olan öğrencinin başka bir lisans programına da eş zamanlı kayıt yaptırabileceği ve bu ikinci programa 'Çift Anadal Lisans Programı' adı verildiği belirtilir; çift anadal programlarına ilişkin esasların Senato tarafından belirleneceği de aynı maddede yer alır. Dolayısıyla başvuru koşulları ve uygulamaları Senatın belirlediği esaslara göre uygulanır.",
     "sources": [
       "MADDE 10"
     ],
-    "verdict": "wrong",
-    "reason": "It claims the regulation specifies registration rules, which the expected content says it does not.",
+    "verdict": "correct",
+    "reason": "The answer correctly states that the regulation does not specify application conditions and that the Senate sets the principles.",
     "citation_ok": true
   },
   {
@@ -352,12 +353,12 @@
     "expected_articles": [
       37
     ],
-    "answer": "METU NCC Lisans Öğretim Yönetmeliği'ne göre, burs ve yardımların dağıtımına ilişkin esaslar Senato tarafından belirlenir (MADDE 37/1). Yönetmelikte burs başvurusu için gereken belgeler hakkında bir düzenleme bulunmamaktadır; bu detayların Senato veya ilgili akademik bir kurul tarafından belirlendiği anlaşılır.",
+    "answer": "METU NCC Lisans Öğretim Yönetmeliği'nde burs başvurusu için gerekli belgelerin detaylı listesi yer almaz. MADDE 37’ye göre, öğrencilere çeşitli kaynaklardan sağlanan bursların ve yardımların dağıtımına ilişkin esaslar Senato tarafından belirlenir. Dolayısıyla, burs başvurusu için gerekli belgelerin tam listesini öğrenmek için ilgili dönemin Senato kararı, akademik takvimi veya burs birimi tarafından yayınlanan duyurulara başvurmanız gerekir.",
     "sources": [
       "MADDE 37"
     ],
     "verdict": "correct",
-    "reason": "Answer correctly states that the regulation does not specify required documents and that the Senate sets them.",
+    "reason": "Answer correctly states that the regulation does not list the documents and points to the Senate for details.",
     "citation_ok": true
   },
   {
@@ -365,10 +366,10 @@
     "type": "out_of_scope",
     "question": "Kampüs yemekhanesi hafta içi saat kaçta açılıyor?",
     "expected_articles": [],
-    "answer": "Üniversite yemekhanesi hafta içi açılış saatleri hakkında METU NCC Lisans Öğretim ve Eğitim Yönetmeliği'nde bir bulamadım. Bu bilgiyi öğrenmek için lütfen kampüs duyurularını veya ilgili birimleri kontrol ediniz.",
+    "answer": "Üniversite Lisans Eğitim ve Öğretim Yönetmeliği'nde kampüs yemekhanesi hafta içi açılış saatleri hakkında bir düzenleme bulunmamaktadır.",
     "sources": [],
     "verdict": "correct",
-    "reason": "It states the regulation does not contain the information and suggests checking other sources.",
+    "reason": "Answer correctly states the regulation does not cover the topic.",
     "citation_ok": true
   },
   {
@@ -376,24 +377,21 @@
     "type": "out_of_scope",
     "question": "Yurt başvuruları ne zaman başlıyor ve oda ücretleri ne kadar?",
     "expected_articles": [],
-    "answer": "METU NCC Lisans Eğitim Öğretim Yönetmeliği'nde yurt başvuru tarihleri ve oda ücretleri hakkında kesin bir yönetmelik bulunmamaktadır. Ancak maddi yükümlülükler kapsamında yurt ücretlerinin ödenmesi gerektiği belirtilmiştir. MADDE 21(2) kapsamında öğrencinin öncelikle katkı payı veya öğrenim ücretini ödemesi ve varsa geçmiş yarıyıllara ait diğer mali yükümlüklerini (yurt, kütüphane borcu ve benzeri) yerine getirmesi zorunludur. MADDE 39(1) ise öğrenim ücretleri, kayıt harcı, kredi başına ders ücretleri, iade, mahsup ve izinli olunan dönemlere ilişkin mali yükümlülükler ile diğer ücretler Üniversite Yönetim Kurulu tarafından belirlenir. Bu yüzden yurt başvuru başlangıç tarihleri ve oda ücretleri miktarı Üniversitesi Yönetim Kurulu tarafından belirlenir ve akademik takvimde ilan edilir. Detaylar için ilgili akademik takvim veya Üniversitesi Yönetim Kurulu duyurularına başvurulması gerekir.",
-    "sources": [
-      "MADDE 21",
-      "MADDE 39"
-    ],
-    "verdict": "wrong",
-    "reason": "It asserts rules that are not in the regulation.",
-    "citation_ok": false
+    "answer": "Üniversite Lisans Eğitim Öğretim Yönetmeliği'nde yurt başvuruları başlangıç tarihleri ve oda ücretleri hakkında bir düzenleme bulunmamaktadır. Bu bilgiler için lütfen Öğrenci İşleri Müdürlüğü veya ilgili yurt yönetimiyle iletişime geçiniz.",
+    "sources": [],
+    "verdict": "correct",
+    "reason": "Answer correctly states that the regulation does not cover the information.",
+    "citation_ok": true
   },
   {
     "id": "q27",
     "type": "out_of_scope",
     "question": "Öğrenci kulübüne nasıl üye olabilirim?",
     "expected_articles": [],
-    "answer": "Öğrenci kulübü üyelik işlemiyle ilgili bir düzenleme bu lisans eğitim öğretim yönetmeliğinde bulunamadı.",
+    "answer": "Öğrenci kulübü üyelikleri METU NCC Lisans Öğretim Yönetmeliği kapsamında düzenlenmez; bu yüzden üyelik süreçleri, başvuru koşulları ve tarihleri bu yönetmelikte yer almaz. Kulüp üyelikleriyle ilgili bilgiler için Öğrenci İşleri veya Kulüp Koordinasyon birimine danışmanız gerekir.",
     "sources": [],
     "verdict": "correct",
-    "reason": "It correctly states that no regulation exists for student club membership.",
+    "reason": "It correctly states that student clubs are not covered by the regulation.",
     "citation_ok": true
   },
   {
@@ -401,10 +399,12 @@
     "type": "out_of_scope",
     "question": "CENG 300 dersinin bu dönemki final sınavı hangi gün yapılacak?",
     "expected_articles": [],
-    "answer": "Üniversite lisans eğitimi yönetmeliğinde belirli bir dersin final sınavı tarihi yer almaz; bu bilgiler akademik takvimde veya ders programında bulunur. Bu yüzden CENG 300 dersinin bu dönemki final sınavı tarihi yönetmelikte belirtilmemektedir.",
-    "sources": [],
+    "answer": "METU NCC Lisans Öğretim Yönetmeliği, CENG 300 gibi bir dersin belirli final sınavı tarihini doğrudan vermez. Ancak yönetmelikteki MADDE 23'e göre, yarıyıl sonu sınavlarının tarih, gün ve saatleri ilgili program koordinatörlükleri veya ilgili akademik kurul başkanlıklarının görüşü alınarak ÖİM tarafından düzenlenir ve ilan edilir; bu tarihler akademik takvimde belirtilen yarıyıl sonu sınav dönemi içinde olur. Dolayısıyla CENG 300 dersinin bu dönemki final sınavı tarihi, ÖİM tarafından açıklanan final sınav takviminde bulunur ve yönetmelikte yer almaz.",
+    "sources": [
+      "MADDE 23"
+    ],
     "verdict": "correct",
-    "reason": "Answer correctly states that the exam date is not in the regulation and points to the academic calendar or syllabus.",
-    "citation_ok": true
+    "reason": "The answer correctly states that the regulation does not specify the date and directs to the academic calendar/timetable.",
+    "citation_ok": false
   }
 ]

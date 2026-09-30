@@ -70,7 +70,7 @@ if question:
                     st.session_state.retrieved,
                     on_status=lambda text: status.update(label=text),
                 )
-                status.update(label="✓ Cevap doğrulandı", state="complete", expanded=False)
+                status.update(label="Cevap doğrulandı", state="complete", expanded=False)
             except APIError as error:
                 status.update(label="⚠️ API hatası", state="error")
                 del st.session_state.messages[turn_start:]  # drop the unfinished turn
